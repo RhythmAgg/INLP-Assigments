@@ -1,0 +1,1001 @@
+417.6770821879865
+['Ah', ',', 'yes', '.']    123.8080123201339
+['He', 's', 'no', 'eunuch', '.']    95.11045971084627
+['A', 'limp', 'black', 'missile', 'flew', 'out', 'of', 'his', 'talking', 'hands', '.']    1165.644012218707
+['THE', 'LACQUEY', ':', 'Barang', '!']    270.22148394742356
+['Jingle', 'jaunted', 'by', 'the', 'curb', 'and', 'stopped', '.']    618.7965767672702
+['He', 'extended', 'elocutionary', 'arms', 'from', 'frayed', 'stained', 'shirtcuffs', ',', 'pausing', ':', 'What', 'was', 'their', 'civilisation', '?']    738.689813858874
+['Longworth', 'will', 'give', 'it', 'a', 'good', 'puff', 'in', 'the', '_Express', '.']    439.7734115794744
+['It', 'went', 'into', 'his', 'back', 'up', 'to', 'the', 'butt', '.']    46.32588447073529
+['His', 'underjaw', 'fell', 'sideways', 'open', 'uncertainly', '.']    1075.029442159291
+['All', 'walked', 'after', '.']    117.19731620975794
+['Under', 'the', 'mistletoe', '.']    109.16068783506404
+['Won', 't', 'sleep', ',', 'though', '.']    123.28383444945786
+['The', 'heavyweights', 'in', 'tight', 'loincloths', 'proposed', 'gently', 'each', 'to', 'other', 'his', 'bulbous', 'fists', '.']    820.2757011050198
+['Then', 'begin', 'to', 'get', 'black', ',', 'black', 'treacle', 'oozing', 'out', 'of', 'them', '.']    198.76557761493336
+['Poldy', 'Kock', ',', 'Bootlaces', 'a', 'penny', ',', 'Cassidy', 's', 'hag', ',', 'blind', 'stripling', ',', 'Larry', 'Rhinoceros', ',', 'the', 'girl', ',', 'the', 'woman', ',', 'the', 'whore', ',', 'the', 'other', ',', 'the', '.']    707.8206811364255
+['And', 'now', 'it', 'was', 'an', 'office', 'or', 'something', '.']    146.64834788926478
+['Elbow', ',', 'arm', '.']    51.49998934082465
+['Clean', 'to', 'see', ':', 'the', 'gloss', 'of', 'her', 'sleek', 'hide', ',', 'the', 'white', 'button', 'under', 'the', 'butt', 'of', 'her', 'tail', ',', 'the', 'green', 'flashing', 'eyes', '.']    244.29168926135068
+['Which', 'hearing', 'young', 'Stephen', 'was', 'a', 'marvellous', 'glad', 'man', 'and', 'he', 'averred', 'that', 'he', 'who', 'stealeth', 'from', 'the', 'poor', 'lendeth', 'to', 'the', 'Lord', 'for', 'he', 'was', 'of', 'a', 'wild', 'manner', 'when', 'he', 'was', 'drunken', 'and', 'that', 'he', 'was', 'now', 'in', 'that', 'taking', 'it', 'appeared', 'eftsoons', '.']    764.2702952526373
+['By', 'the', 'chains', 'the', 'horse', 'slowly', 'swerved', 'to', 'turn', ',', 'which', 'perceiving', ',', 'Bloom', ',', 'who', 'was', 'keeping', 'a', 'sharp', 'lookout', 'as', 'usual', ',', 'plucked', 'the', 'other', 's', 'sleeve', 'gently', ',', 'jocosely', 'remarking', ':', 'Our', 'lives', 'are', 'in', 'peril', 'tonight', '.']    304.7922163370005
+['O', 'Molloy', 's', 'hand', 'and', 'raises', 'it', 'to', 'his', 'lips', '.']    197.11535313312135
+['Suppose', 'she', 'was', 'gone', 'when', 'he', '?']    22.595937375659748
+['load', 'of', 'papers', ',', 'working', 'for', 'the', 'cause', '.']    65.32085314709364
+['They', 'wag', 'their', 'beards', 'at', 'Bloom', '.']    825.0545366339114
+['Indiges', '.']    20.783012474794592
+['He', 'crossed', 'to', 'the', 'bright', 'side', ',', 'avoiding', 'the', 'loose', 'cellarflap', 'of', 'number', 'seventyfive', '.']    229.9510176225929
+['Eating', 'off', 'his', 'cold', 'plate', '.']    60.46051560991844
+['Ayes', 'have', 'it', '.']    222.98483736300523
+['Be', 'mine', '.']    47.11325460911854
+['The', 'jejune', 'jesuit', '!']    86.54069196223229
+['New', 'worlds', 'for', 'old', '.']    98.98953295569153
+['loveliness', ',', 'had', 'misted', 'her', 'eyes', 'with', 'silent', 'tears', 'for', 'she', 'felt', 'that', 'the', 'years', 'were', 'slipping', 'by', 'for', 'her', ',', 'one', 'by', 'one', ',', 'and', 'but', 'for', 'that', 'one', 'shortcoming', 'she', 'knew', 'she', 'need', 'fear', 'no', 'competition', 'and', 'that', 'was', 'an', 'accident', 'coming', 'down', 'Dalkey', 'hill', 'and', 'she', 'always', 'tried', 'to', 'conceal', 'it', '.']    451.74519082347695
+['Cuffe', 'sold', 'them', 'about', 'twentyseven', 'quid', 'each', '.']    1064.349556407366
+['Bloom', 'bent', 'leopold', 'ear', ',', 'turning', 'a', 'fringe', 'of', 'doyley', 'down', 'under', 'the', 'vase', '.']    609.9065710185195
+['Shy', ',', 'deny', 'thy', 'kindred', ',', 'the', 'unco', 'guid', '.']    1845.879952983628
+['Sighing', 'Mr', 'Dedalus', 'came', 'through', 'the', 'saloon', ',', 'a', 'finger', 'soothing', 'an', 'eyelid', '.']    314.77496556114966
+['The', 'protestants', 'are', 'the', 'same', '.']    291.3231919096953
+['A', 'whacking', 'fine', 'whip', ',', 'said', 'Lenehan', ',', 'is', 'W', '.']    116.48683758538947
+['He', 'halted', '.']    11.641640628862769
+['With', 'this', 'ring', 'I', 'thee', 'own', '.']    84.76425633477821
+['The', 'twins', 'were', 'now', 'playing', 'in', 'the', 'most', 'approved', 'brotherly', 'fashion', 'till', 'at', 'last', 'Master', 'Jacky', 'who', 'was', 'really', 'as', 'bold', 'as', 'brass', 'there', 'was', 'no', 'getting', 'behind', 'that', 'deliberately', 'kicked', 'the', 'ball', 'as', 'hard', 'as', 'ever', 'he', 'could', 'down', 'towards', 'the', 'seaweedy', 'rocks', '.']    769.5202119880904
+['Pocket', 'Guide', 'to', 'Killarney', '.']    786.743978419202
+['We', 'are', 'considerably', 'out', 'of', 'pocket', 'over', 'this', 'bally', 'pressman', 'johnny', ',', 'this', 'jackdaw', 'of', 'Rheims', ',', 'who', 'has', 'not', 'even', 'been', 'to', 'a', 'university', '.']    1045.3932027814037
+['Mr', 'Bloom', 'with', 'careful', 'hand', 'recomposed', 'his', 'wet', 'shirt', '.']    619.8112265260803
+['She', 'did', 'not', 'mind', '.']    166.7186206250357
+['They', 'went', 'under', '.']    10.999567935111152
+['Mr', 'Dedalus', ',', 'twisting', 'his', 'nose', ',', 'frowned', 'downward', 'and', 'said', ':', 'Unless', 'I', 'm', 'greatly', 'mistaken', '.']    218.96278042784897
+['Cowley', 'sang', ':', '_', 'M', 'appari', 'tutt', 'amor', ':', 'Il', 'mio', 'sguardo', 'l', 'incontr', '.']    2994.3400469098924
+['Still', 'always', 'nice', 'to', 'hear', '.']    489.30086513205856
+['At', 'first', '.']    36.60945890921815
+['Looked', 'enough', '.']    70.84607915744152
+['Ludamassy', '!']    20.783012474794592
+['And', 'just', 'imagine', 'that', '.']    7.629622952650527
+['glares', '.']    20.783012474794592
+['What', 's', 'that', '?']    257.8328398037481
+['Uropoetic', '.']    20.783012474794592
+['It', 'all', 'works', 'out', '.']    55.257195035641764
+['Hell', 's', 'delights', '!']    222.9716862297423
+['Be', 'not', 'afeard', 'neither', 'for', 'any', 'want', 'for', 'this', 'will', 'comfort', 'more', 'than', 'the', 'other', 'will', 'dismay', '.']    1264.7575109453526
+['fire', 'to', 'Bloom', '.']    45.746325343017524
+['Get', 'ye', 'gone', '.']    158.8936847572723
+['O', 'Molloy', 'sent', 'a', 'weary', 'sidelong', 'glance', 'towards', 'the', 'statue', 'and', 'held', 'his', 'peace', '.']    200.79158386136612
+['In', 'gay', 'Paree', 'he', 'hides', ',', 'Egan', 'of', 'Paris', ',', 'unsought', 'by', 'any', 'save', 'by', 'me', '.']    1675.156827979835
+['Clear', 'the', 'table', '.']    126.82867120829938
+['Corny', 'Kelleher', 'closed', 'his', 'long', 'daybook', 'and', 'glanced', 'with', 'his', 'drooping', 'eye', 'at', 'a', 'pine', 'coffinlid', 'sentried', 'in', 'a', 'corner', '.']    711.455962639211
+['Thought', 'is', 'the', 'thought', 'of', 'thought', '.']    32.16226826030501
+['perfect', 'peace', '.']    113.2835365560183
+['The', 'field', 'follows', ',', 'a', 'bunch', 'of', 'bucking', 'mounts', '.']    128.9729555077005
+['The', 'preparation', 'of', 'breakfast', 'burnt', 'offering', ':', 'intestinal', 'congestion', 'and', 'premeditative', 'defecation', 'holy', 'of', 'holies', ':', 'the', 'bath', 'rite', 'of', 'John', ':', 'the', 'funeral', 'rite', 'of', 'Samuel', ':', 'the', 'advertisement', 'of', 'Alexander', 'Keyes', 'Urim', 'and', 'Thummim', ':', 'the', 'unsubstantial', 'lunch', 'rite', 'of', 'Melchisedek', ':', 'the', 'visit', 'to', 'museum', 'and', 'national', 'library', 'holy', 'place', ':', 'the', 'bookhunt', 'along', 'Bedford', 'row', ',', 'Merchants', 'Arch', ',', 'Wellington', 'Quay', 'Simchath', 'Torah', ':', 'the', 'music', 'in', 'the', 'Ormond', 'Hotel', 'Shira', 'Shirim', ':', 'the', 'altercation', 'with', 'a', 'truculent', 'troglodyte', 'in', 'Bernard', 'Kiernan', 's', 'premises', 'holocaust', ':', 'a', 'blank', 'period', 'of', 'time', 'including', 'a', 'cardrive', ',', 'a', 'visit', 'to', 'a', 'house', 'of', 'mourning', ',', 'a', 'leavetaking', 'wilderness', ':', 'the', 'eroticism', 'produced', 'by', 'feminine', 'exhibitionism', 'rite', 'of', 'Onan', ':', 'the', 'prolonged', 'delivery', 'of', 'Mrs', 'Mina', 'Purefoy', 'heave', 'offering', ':', 'the', 'visit', 'to', 'the', 'disorderly', 'house', 'of', 'Mrs', 'Bella', 'Cohen', ',', '<NUMBER>', 'Tyrone', 'street', ',', 'lower', ',', 'and', 'subsequent', 'brawl', 'and', 'chance', 'medley', 'in', 'Beaver', 'street', 'Armageddon', ':', 'nocturnal', 'perambulation', 'to', 'and', 'from', 'the', 'cabman', 's', 'shelter', ',', 'Butt', 'Bridge', 'atonement', '.']    13.89495494373138
+['Those', 'crawthumpers', ',', 'now', 'that', 's', 'a', 'good', 'name', 'for', 'them', ',', 'there', 's', 'always', 'something', 'shiftylooking', 'about', 'them', '.']    146.69763021234175
+['He', 'voted', 'for', 'it', 'and', 'put', 'on', 'his', 'topboots', 'to', 'ride', 'to', 'Dublin', 'from', 'the', 'Ards', 'of', 'Down', 'to', 'do', 'so', '.']    178.9289856638722
+['Mr', 'Best', 'asked', 'with', 'slight', 'concern', '.']    183.37018756376807
+['Gutenberg', 'Literary', 'Archive', 'Foundation', ',', 'the', 'owner', 'of', 'the', 'Project', 'Gutenberg', 'tm', 'trademark', ',', 'and', 'any', 'other', 'party', 'distributing', 'a', 'Project', 'Gutenberg', 'tm', 'electronic', 'work', 'under', 'this', 'agreement', ',', 'disclaim', 'all', 'liability', 'to', 'you', 'for', 'damages', ',', 'costs', 'and', 'expenses', ',', 'including', 'legal', 'fees', '.']    1056.5583847174519
+['In', 'disoccupied', 'moments', 'she', 'had', 'more', 'than', 'once', 'covered', 'a', 'sheet', 'of', 'paper', 'with', 'signs', 'and', 'hieroglyphics', 'which', 'she', 'stated', 'were', 'Greek', 'and', 'Irish', 'and', 'Hebrew', 'characters', '.']    693.9132751369074
+['And', 'then', 'their', 'stomachs', 'clean', '.']    78.04803569434189
+['Raw', 'facebones', 'under', 'his', 'peep', 'of', 'day', 'boy', 's', 'hat', '.']    166.49686807498293
+['CORNY', 'KELLEHER', ':', 'Sure', 'it', 'was', 'Behan', 'our', 'jarvey', 'there', 'that', 'told', 'me', 'after', 'we', 'left', 'the', 'two', 'commercials', 'in', 'Mrs', 'Cohen', 's', 'and', 'I', 'told', 'him', 'to', 'pull', 'up', 'and', 'got', 'off', 'to', 'see', '.']    205.3284811308234
+['He', 'unrolled', 'the', 'newspaper', 'baton', 'idly', 'and', 'read', 'idly', ':', 'What', 'is', 'home', 'without', 'Plumtree', 's', 'Potted', 'Meat', '?']    1374.2091686460317
+['Made', 'me', 'feel', 'so', 'young', '.']    12.520201582239391
+['I', 'am', 'a', 'respectable', 'married', 'man', ',', 'without', 'a', 'stain', 'on', 'my', 'character', '.']    96.66316146098542
+['He', 'eyes', 'her', '.']    77.12187921525118
+['I', 'll', 'scourge', 'the', 'pigeonlivered', 'cur', 'as', 'long', 'as', 'I', 'can', 'stand', 'over', 'him', '.']    1803.3005903869528
+['Ci', 'rifletta_', '.']    113.2835365560183
+['Gerty', 'just', 'took', 'off', 'her', 'hat', 'for', 'a', 'moment', 'to', 'settle', 'her', 'hair', 'and', 'a', 'prettier', ',', 'a', 'daintier', 'head', 'of', 'nutbrown', 'tresses', 'was', 'never', 'seen', 'on', 'a', 'girl', 's', 'shoulders', 'a', 'radiant', 'little', 'vision', ',', 'in', 'sooth', ',', 'almost', 'maddening', 'in', 'its', 'sweetness', '.']    688.0324520306262
+['Miss', 'Douce', 'chimed', 'in', 'in', 'deep', 'bronze', 'laughter', ',', 'shouting', ':', 'And', 'your', 'other', 'eye', '!']    178.5490300663303
+['Slide', '.']    17.39887064294224
+['Hhhn', ':', 'burst', 'sideways', '.']    786.743978419202
+['Within', 'womb', 'won', 'he', 'worship', '.']    1441.631453416391
+['How', 'to', 'win', 'a', 'woman', 's', 'love', '.']    12.156792553872409
+['The', 'Ormond', 'boots', 'crouches', 'behind', 'on', 'the', 'axle', '.']    263.5941309863847
+['The', 'reflection', 'that', ',', 'apart', 'from', 'the', 'letter', 'in', 'question', ',', 'his', 'magnetic', 'face', ',', 'form', 'and', 'address', 'had', 'been', 'favourably', 'received', 'during', 'the', 'course', 'of', 'the', 'preceding', 'day', 'by', 'a', 'wife', 'Mrs', 'Josephine', 'Breen', ',', 'born', 'Josie', 'Powell', ',', 'a', 'nurse', ',', 'Miss', 'Callan', 'Christian', 'name', 'unknown', ',', 'a', 'maid', ',', 'Gertrude', 'Gerty', ',', 'family', 'name', 'unknown', '.']    248.5358188009535
+['She', 'asked', '.']    19.186501569009142
+['RHYMES', 'AND', 'REASONS', 'Mouth', ',', 'south', '.']    642.5002789284065
+['Pleasant', 'evenings', 'we', 'had', 'then', '.']    74.17868971923271
+['Copyright', 'laws', 'in', 'most', 'countries', 'are', 'in', 'a', 'constant', 'state', 'of', 'change', '.']    224.7027738189284
+['Brings', 'you', 'a', 'bit', 'nearer', 'every', 'time', '.']    247.97485314495134
+['And', 'what', 'was', 'his', 'name', '?']    871.5174081465018
+['said', '.']    78.16155359515567
+['Slaking', 'his', 'drouth', '.']    51.49998934082465
+['ZOE', ':', '_', 'Widening', 'her', 'slip', 'to', 'screen', 'her', '.']    562.4797868195753
+['Wake', 'no', 'more', '.']    152.44400984388326
+['Still', 'two', 'types', 'there', 'are', 'you', 'bob', 'against', '.']    338.0155242078445
+['Show', 'us', 'over', 'those', 'apricots', ',', 'meaning', 'peaches', '.']    1020.8016147442428
+['that', 'I', '.']    44.94566877330262
+['And', '_apropos_', 'of', 'coffin', 'of', 'stones', 'the', 'analogy', 'was', 'not', 'at', 'all', 'bad', 'as', 'it', 'was', 'in', 'fact', 'a', 'stoning', 'to', 'death', 'on', 'the', 'part', 'of', 'seventytwo', 'out', 'of', 'eighty', 'odd', 'constituencies', 'that', 'ratted', 'at', 'the', 'time', 'of', 'the', 'split', 'and', 'chiefly', 'the', 'belauded', 'peasant', 'class', ',', 'probably', 'the', 'selfsame', 'evicted', 'tenants', 'he', 'had', 'put', 'in', 'their', 'holdings', '.']    1393.1994386783874
+['And', 'you', ',', 'father', '?']    28.357944796326006
+['Through', 'spaces', 'smaller', 'than', 'red', 'globules', 'of', 'man', 's', 'blood', 'they', 'creepycrawl', 'after', 'Blake', 's', 'buttocks', 'into', 'eternity', 'of', 'which', 'this', 'vegetable', 'world', 'is', 'but', 'a', 'shadow', '.']    1694.554835093945
+['Tara', 'street', '.']    79.26699736319347
+['That', 'answer', 'and', 'those', 'leaves', ',', 'Vincent', 'said', 'to', 'him', ',', 'will', 'adorn', 'you', 'more', 'fitly', 'when', 'something', 'more', ',', 'and', 'greatly', 'more', ',', 'than', 'a', 'capful', 'of', 'light', 'odes', 'can', 'call', 'your', 'genius', 'father', '.']    554.5799502712707
+['The', 'viceregal', 'cavalcade', 'passed', ',', 'greeted', 'by', 'obsequious', 'policemen', ',', 'out', 'of', 'Parkgate', '.']    36.47354624605184
+['He', 'turned', 'and', 'halted', 'by', 'the', 'slanted', 'bookcart', '.']    158.21060890498126
+['before', 'his', 'death', '.']    30.937380880379955
+['She', 'had', 'no', 'navel', '.']    121.85772339641122
+['He', 's', 'well', 'worth', 'seeing', ',', 'mind', 'you', '.']    117.32930752122495
+['Pardon', '?']    17.39887064294224
+['STEPHEN', ':', '_', 'Points', '.']    154.7112549248767
+['obliged', 'to', 'have', 'been', 'alive', '<NUMBER>', ',', '<NUMBER>', 'years', ',', 'having', 'been', 'obliged', 'to', 'have', 'been', 'born', 'in', 'the', 'year', '<NUMBER>', ',', '<NUMBER>', 'B', '.']    403.4179079045783
+['His', 'lovely', 'shirt', 'was', 'shining', 'beneath', 'his', 'what', '?']    860.5975052079856
+['He', 'broke', 'off', 'and', 'lathered', 'again', 'lightly', 'his', 'farther', 'cheek', '.']    542.5561946632032
+['I', 'll', 'catch', 'him', '.']    91.4898289765746
+['Very', 'warm', 'morning', '.']    174.90299719616857
+['job', '?']    20.783012474794592
+['SOME', 'COLUMN', '!']    113.2835365560183
+['And', 'his', 'Dulcinea', '?']    62.41035989178106
+['O', 'Molloy', 'took', 'the', 'tissues', 'from', 'Lenehan', 's', 'hand', 'and', 'read', 'them', ',', 'blowing', 'them', 'apart', 'gently', ',', 'without', 'comment', '.']    53.56737250513397
+['Meet', 'you', 'knocking', 'around', '.']    786.743978419202
+['And', 'her', 'boys', ',', 'were', 'they', 'getting', 'on', 'well', 'at', 'Belvedere', '?']    334.5703428598434
+['Sandwich', '?']    20.783012474794592
+['Bloom', 'looked', 'at', 'the', 'head', 'of', 'a', 'horse', 'not', 'worth', 'anything', 'like', 'sixtyfive', 'guineas', ',', 'suddenly', 'in', 'evidence', 'in', 'the', 'dark', 'quite', 'near', 'so', 'that', 'it', 'seemed', 'new', ',', 'a', 'different', 'grouping', 'of', 'bones', 'and', 'even', 'flesh', 'because', 'palpably', 'it', 'was', 'a', 'fourwalker', ',', 'a', 'hipshaker', ',', 'a', 'blackbuttocker', ',', 'a', 'taildangler', ',', 'a', 'headhanger', 'putting', 'his', 'hind', 'foot', 'foremost', 'the', 'while', 'the', 'lord', 'of', 'his', 'creation', 'sat', 'on', 'the', 'perch', ',', 'busy', 'with', 'his', 'thoughts', '.']    340.13049382792525
+['Grace', 'after', 'meals', '.']    1040.1556262274512
+['I', 'was', 'going', 'to', 'throw', 'it', 'away', 'that', 'moment', '.']    148.89682781527105
+['And', 'it', 'left', 'him', 'wondering', 'why', '.']    197.04848480021062
+['A', 'cloud', 'began', 'to', 'cover', 'the', 'sun', 'slowly', ',', 'wholly', '.']    2085.3728569683717
+['You', 'were', 'a', 'lucky', 'dog', 'if', 'they', 'didn', 't', 'set', 'the', 'terrier', 'at', 'you', 'directly', 'you', 'got', 'back', '.']    201.56139495016154
+['BLOOM', ':', '_', 'Points', 'to', 'his', 'hand', '.']    138.01108480327204
+['You', 'horrid', 'thing', '!']    110.20218055950177
+['Could', 'hear', 'them', 'all', 'at', 'it', '.']    21.914585024440697
+['DON', 'EMILE', 'PATRIZIO', 'FRANZ', 'RUPERT', 'POPE', 'HENNESSY', ':', '_', 'In', 'medieval', 'hauberk', ',', 'two', 'wild', 'geese', 'volant', 'on', 'his', 'helm', ',', 'with', 'noble', 'indignation', 'points', 'a', 'mailed', 'hand', 'against', 'the', 'privates', '.']    1432.487040057711
+['Tom', 'Rochford', ',', 'seeing', 'the', 'eyes', 'of', 'lady', 'Dudley', 'fixed', 'on', 'him', ',', 'took', 'his', 'thumbs', 'quickly', 'out', 'of', 'the', 'pockets', 'of', 'his', 'claret', 'waistcoat', 'and', 'doffed', 'his', 'cap', 'to', 'her', '.']    195.704379493803
+['Let', 'the', 'lewd', 'with', 'faith', 'and', 'fervour', 'worship', '.']    922.4789107375381
+['The', 'impression', 'made', 'by', 'his', 'words', 'was', 'immediate', 'but', 'shortlived', '.']    270.7632483058438
+['Why', 'might', 'these', 'several', 'provisional', 'contingencies', 'between', 'a', 'guest', 'and', 'a', 'hostess', 'not', 'necessarily', 'preclude', 'or', 'be', 'precluded', 'by', 'a', 'permanent', 'eventuality', 'of', 'reconciliatory', 'union', 'between', 'a', 'schoolfellow', 'and', 'a', 'jew', 's', 'daughter', '?']    1254.2257887554324
+['Faut', 'que', 'jeunesse', 'se', 'passe', '.']    1319.0477869638482
+['Poor', 'young', 'fellow', '!']    131.53426470161003
+['du', 'Boyes', ',', 'agent', 'for', 'typewriters', 'or', 'something', 'like', 'that', '.']    1285.9504209326062
+['I', 'know', 'him', '.']    223.08990977877696
+['Believes', 'me', 'dead', ',', 'rocked', 'in', 'the', 'cradle', 'of', 'the', 'deep', '.']    125.46022085752674
+['Ways', 'of', 'the', 'world', '.']    202.32699703522044
+['THE', 'YEWS', ':', '_', 'Rustling', '.']    182.22570144379395
+['Near', 'it', 'now', '.']    114.32305606002411
+['O', ',', 'I', 'fear', 'me', ',', 'he', 'is', 'Greeker', 'than', 'the', 'Greeks', '.']    533.5713252402089
+['Please', 'write', 'me', 'a', 'long', 'letter', 'and', 'tell', 'me', 'more', '.']    55.193536196006875
+['She', 'sipped', 'distastefully', 'her', 'brew', ',', 'hot', 'tea', ',', 'a', 'sip', ',', 'sipped', ',', 'sweet', 'tea', '.']    304.7458601165063
+['Bloom', 'approaches', 'Zoe', '.']    114.31086915155987
+['Almost', 'human', 'the', 'way', 'it', 'sllt', 'to', 'call', 'attention', '.']    580.8299401016999
+['Ned', 'Lambert', ',', 'laughing', ',', 'struck', 'the', 'newspaper', 'on', 'his', 'knees', ',', 'repeating', ':', '_The', 'pensive', 'bosom', 'and', 'the', 'overarsing', 'leafage_', '.']    76.38049443684854
+['Now', 'that', 'was', 'farseeing', '.']    47.919947688853846
+['What', 'attracted', 'his', 'attention', 'lying', 'on', 'the', 'apron', 'of', 'the', 'dresser', '?']    77.79244347728107
+['Stephen', 'and', 'Zoe', 'circle', 'freely', '.']    144.71563103314645
+['And', 'past', 'the', 'sailors', 'home', '.']    28.54478705818635
+['The', 'glint', 'of', 'my', 'eye', 'does', 'it', 'with', 'these', 'breastsparklers', '.']    242.73439117443544
+['She', 'felt', 'the', 'warm', 'flush', ',', 'a', 'danger', 'signal', 'always', 'with', 'Gerty', 'MacDowell', ',', 'surging', 'and', 'flaming', 'into', 'her', 'cheeks', '.']    260.36205364647515
+['That', 'we', 'all', 'lived', 'before', 'on', 'the', 'earth', 'thousands', 'of', 'years', 'ago', 'or', 'some', 'other', 'planet', '.']    440.8945061345049
+['Start', 'afresh', '.']    113.2835365560183
+['Probably', 'lost', 'cattle', '.']    212.90363036408706
+['Visits', 'him', 'here', 'on', 'quarter', 'days', '.']    178.77914376641263
+['Mouth', 'dry', '.']    65.75083969094422
+['He', 'walked', 'along', 'the', 'curbstone', '.']    692.4927298474465
+['By', 'Larry', 'O', 'Rourke', 's', ',', 'by', 'Larry', ',', 'bold', 'Larry', 'O', ',', 'Boylan', 'swayed', 'and', 'Boylan', 'turned', '.']    93.98991288004763
+['Also', 'the', 'lady', 'was', 'of', 'his', 'avis', 'and', 'repreved', 'the', 'learningknight', 'though', 'she', 'trowed', 'well', 'that', 'the', 'traveller', 'had', 'said', 'thing', 'that', 'was', 'false', 'for', 'his', 'subtility', '.']    254.889418011719
+['Old', 'thieves', 'dodge', '.']    148.796423800881
+['Jubilee', 'mutton', '.']    113.2835365560183
+['Stylish', 'coat', ',', 'beyond', 'a', 'doubt', '.']    125.18698511196129
+['In', 'Serpentine', 'avenue', 'Beelzebub', 'showed', 'me', 'her', ',', 'a', 'fubsy', 'widow', '.']    184.63006360689758
+['Good', 'morning', ',', 'sir', '.']    134.27334321108427
+['His', 'jokes', 'are', 'getting', 'a', 'bit', 'damp', '.']    141.53048179970642
+['Bloom', '.']    32.657294870970155
+['This', 'cemetery', 'is', 'a', 'treacherous', 'place', '.']    357.22023382689895
+['I', 'see', 'Bloom', 'put', 'his', 'name', 'down', 'for', 'five', 'shillings', '.']    157.4085327761873
+['Our', 'whatnot', ',', 'our', 'writingtable', 'where', 'we', 'never', 'wrote', ',', 'aunt', 'Hegarty', 's', 'armchair', ',', 'our', 'classic', 'reprints', 'of', 'old', 'masters', '.']    686.3048512046647
+['Somewhere', 'in', 'the', 'east', ':', 'early', 'morning', ':', 'set', 'off', 'at', 'dawn', '.']    77.84328122665494
+['Unfallen', 'Adam', 'rode', 'and', 'not', 'rutted', '.']    642.529340221639
+['In', 'the', 'still', 'faint', 'light', 'he', 'moved', 'about', ',', 'tapping', 'with', 'his', 'lath', 'the', 'piled', 'seedbags', 'and', 'points', 'of', 'vantage', 'on', 'the', 'floor', '.']    360.2352378722163
+['Mr', 'Kernan', 'added', ':', 'The', 'service', 'of', 'the', 'Irish', 'church', 'used', 'in', 'Mount', 'Jerome', 'is', 'simpler', ',', 'more', 'impressive', 'I', 'must', 'say', '.']    859.7726483159009
+['What', 'comforted', 'his', 'misapprehension', '?']    274.1410166263093
+['the', 'sea', '.']    15.550978773884674
+['My', 'eppripfftaph', '.']    34.43203047705591
+['Wonder', 'what', 'kind', 'is', 'swanmeat', '.']    112.21378525760646
+['Geraghty', ',', 'esquire', ',', 'of', '<NUMBER>', 'Arbour', 'hill', 'in', 'the', 'city', 'of', 'Dublin', ',', 'Arran', 'quay', 'ward', ',', 'gentleman', ',', 'hereinafter', 'called', 'the', 'purchaser', ',', 'videlicet', ',', 'five', 'pounds', 'avoirdupois', 'of', 'first', 'choice', 'tea', 'at', 'three', 'shillings', 'and', 'no', 'pence', 'per', 'pound', 'avoirdupois', 'and', 'three', 'stone', 'avoirdupois', 'of', 'sugar', ',', 'crushed', 'crystal', ',', 'at', 'threepence', 'per', 'pound', 'avoirdupois', ',', 'the', 'said', 'purchaser', 'debtor', 'to', 'the', 'said', 'vendor', 'of', 'one', 'pound', 'five', 'shillings', 'and', 'sixpence', 'sterling', 'for', 'value', 'received', 'which', 'amount', 'shall', 'be', 'paid', 'by', 'said', 'purchaser', 'to', 'said', 'vendor', 'in', 'weekly', 'instalments', 'every', 'seven', 'calendar', 'days', 'of', 'three', 'shillings', 'and', 'no', 'pence', 'sterling', ':', 'and', 'the', 'said', 'nonperishable', 'goods', 'shall', 'not', 'be', 'pawned', 'or', 'pledged', 'or', 'sold', 'or', 'otherwise', 'alienated', 'by', 'the', 'said', 'purchaser', 'but', 'shall', 'be', 'and', 'remain', 'and', 'be', 'held', 'to', 'be', 'the', 'sole', 'and', 'exclusive', 'property', 'of', 'the', 'said', 'vendor', 'to', 'be', 'disposed', 'of', 'at', 'his', 'good', 'will', 'and', 'pleasure', 'until', 'the', 'said', 'amount', 'shall', 'have', 'been', 'duly', 'paid', 'by', 'the', 'said', 'purchaser', 'to', 'the', 'said', 'vendor', 'in', 'the', 'manner', 'herein', 'set', 'forth', 'as', 'this', 'day', 'hereby', 'agreed', 'between', 'the', 'said', 'vendor', ',', 'his', 'heirs', ',', 'successors', ',', 'trustees', 'and', 'assigns', 'of', 'the', 'one', 'part', 'and', 'the', 'said', 'purchaser', ',', 'his', 'heirs', ',', 'successors', ',', 'trustees', 'and', 'assigns', 'of', 'the', 'other', 'part', '.']    8.268584950673143
+['Then', 'gently', 'his', 'finger', 'felt', 'the', 'skin', 'of', 'his', 'right', 'cheek', '.']    87.15335026566389
+['Pa', 'was', 'inside', 'it', 'and', 'ma', 'crying', 'in', 'the', 'parlour', 'and', 'uncle', 'Barney', 'telling', 'the', 'men', 'how', 'to', 'get', 'it', 'round', 'the', 'bend', '.']    383.0025988440845
+['All', 'my', 'babies', ',', 'she', 'said', '.']    134.98406147844082
+['This', 'is', 'my', 'body', '.']    8.706000724680928
+['How', 'do', 'you', 'do', ',', 'Mr', 'Crimmins', '?']    409.7869929615874
+['SECOND', 'WATCH', ':', 'All', 'right', ',', 'Mr', 'Kelleher', '.']    148.9642077657231
+['THE', 'END', 'OF', 'THE', 'WORLD', ':', '_', 'With', 'a', 'Scotch', 'accent', '.']    421.24658893947714
+['Nothing', '.']    7.629963106928055
+['See', 'you', 'later', '.']    144.80570653243595
+['Tell', 'us', ',', 'there', 's', 'a', 'dear', '.']    84.80593149271606
+['Filthy', 'shells', '.']    98.26907031600221
+['Sit', 'her', 'horse', 'like', 'a', 'man', '.']    877.2081213518042
+['May', 'be', 'for', 'months', 'and', 'may', 'be', 'for', 'never', '.']    36.8351503394776
+['By', 'the', 'bye', 'have', 'you', 'the', 'book', ',', 'the', 'thing', ',', 'the', 'ashplant', '?']    15.94217704273022
+['Recent', 'outrage', '.']    113.2835365560183
+['He', 's', 'gone', '.']    129.13118783290818
+['Hardy', 'annuals', 'he', 'presents', 'her', 'with', '.']    642.5293217052573
+['Where', 'is', 'that', 'child', 's', 'funeral', 'disappeared', 'to', '?']    68.39994066860207
+['He', 'thrust', 'back', 'quick', 'Agendath', '.']    462.7880086280582
+['Your', 'dean', 'of', 'studies', 'holds', 'he', 'was', 'a', 'holy', 'Roman', '.']    97.31456315189274
+['With', 'grace', 'of', 'alacrity', 'towards', 'the', 'mirror', 'gilt', 'Cantrell', 'and', 'Cochrane', 's', 'she', 'turned', 'herself', '.']    184.87870996735916
+['For', 'shame', '!']    33.593206570304105
+['He', 'asked', 'about', 'Glaucon', ',', 'Alcibiades', ',', 'Pisistratus', '.']    1727.8476272347145
+['Well', ',', 'so', 'long', '.']    29.53631263598616
+['It', 'buzz', ',', 'it', 'twanged', '.']    141.16317391961257
+['For', 'such', 'favours', 'knights', 'of', 'old', 'laid', 'down', 'their', 'lives', '.']    102.5362005814072
+['When', 'three', 'it', 's', 'night', '.']    41.374803702744934
+['The', 'voice', 'of', 'dark', 'age', ',', 'of', 'unlove', ',', 'earth', 's', 'fatigue', 'made', 'grave', 'approach', 'and', 'painful', ',', 'come', 'from', 'afar', ',', 'from', 'hoary', 'mountains', ',', 'called', 'on', 'good', 'men', 'and', 'true', '.']    559.3350044176934
+['Tara', '.']    198.0048644153647
+['How', 'many', 'women', 'had', 'you', ',', 'eh', ',', 'following', 'them', 'up', 'dark', 'streets', ',', 'flatfoot', ',', 'exciting', 'them', 'by', 'your', 'smothered', 'grunts', ',', 'what', ',', 'you', 'male', 'prostitute', '?']    506.88590003207673
+['A', 'plate', 'crashes', ':', 'a', 'woman', 'screams', ':', 'a', 'child', 'wails', '.']    408.28040595689015
+['An', 'animated', 'altercation', 'in', 'which', 'all', 'took', 'part', 'ensued', 'among', 'the', 'F', '.']    686.5774285177572
+['Save', 'him', 'from', 'hell', ',', 'O', 'Divine', 'Sacred', 'Heart', '!']    97.61663796628024
+['He', 'hoped', 'she', 'had', 'nice', 'weather', 'in', 'Rostrevor', '.']    751.0696504406365
+['He', 'thous', 'and', 'thees', 'her', 'with', 'grave', 'husbandwords', '.']    263.68980821537684
+['There', 'was', 'the', 'allimportant', 'question', 'and', 'she', 'was', 'dying', 'to', 'know', 'was', 'he', 'a', 'married', 'man', 'or', 'a', 'widower', 'who', 'had', 'lost', 'his', 'wife', 'or', 'some', 'tragedy', 'like', 'the', 'nobleman', 'with', 'the', 'foreign', 'name', 'from', 'the', 'land', 'of', 'song', 'had', 'to', 'have', 'her', 'put', 'into', 'a', 'madhouse', ',', 'cruel', 'only', 'to', 'be', 'kind', '.']    363.43440861110776
+['Paddy', 'Leonard', 'and', 'Bantam', 'Lyons', 'came', 'in', '.']    547.5030147211459
+['The', 'joy', 'of', 'creation', '.']    7.981496014245271
+['English', '.']    20.783012474794592
+['With', 'the', 'Bannons', '.']    95.76657610363229
+['A', '_livre', '!']    23.554026836198837
+['Of', 'Bloom', '.']    38.42717950151183
+['siding', '.']    20.783012474794592
+['I', 'feel', 'we', 'are', '.']    125.1988422610497
+['There', 's', 'the', 'widow', '.']    26.217900588648565
+['THE', 'NAVVY', ':', '_', 'Shouts', '.']    524.1888198857838
+['Occasionally', 'he', 'ate', 'without', 'having', 'previously', 'removed', 'his', 'hat', '.']    197.21249307379648
+['Mr', 'Best', 'pleaded', '.']    60.22568837292174
+['Or', 'a', 'poison', 'bouquet', 'to', 'strike', 'him', 'down', '.']    32.38626130179373
+['Resp', '.']    20.783012474794592
+['Traces', 'of', 'elephantiasis', 'have', 'been', 'discovered', 'among', 'his', 'ascendants', '.']    819.4989283806264
+['Buck', 'Mulligan', 'went', 'on', 'hewing', 'and', 'wheedling', ':', '_So', 'I', 'do', ',', 'Mrs', 'Cahill', ',', '_', 'says', 'she', '.']    398.41262577308237
+['Neverrip', 'brand', 'as', 'supplied', 'to', 'the', 'aristocracy', '.']    1065.7838585930917
+['Tom', 'Rochford', 'said', '.']    124.54994029094944
+['Won', 'a', 'bit', 'on', 'the', 'races', '.']    333.2265426838603
+['He', 'read', 'where', 'his', 'finger', 'opened', '.']    52.08692711859882
+['A', 'roar', '.']    23.554026836198837
+['It', 'is', 'in', 'infinite', 'variety', 'everywhere', 'in', 'the', 'world', 'he', 'has', 'created', ',', 'in', '_Much', 'Ado', 'about', 'Nothing_', ',', 'twice', 'in', '_As', 'you', 'like', 'It_', ',', 'in', '_The', 'Tempest_', ',', 'in', '_Hamlet', ',', '_', 'in', '_Measure', 'for', 'Measure_', 'and', 'in', 'all', 'the', 'other', 'plays', 'which', 'I', 'have', 'not', 'read', '.']    925.6143405051911
+['In', 'Bloom', 's', 'little', 'wee', '.']    31.922705818288545
+['Lubricate', '.']    20.783012474794592
+['They', 'think', 'it', 'funny', '.']    56.56024074922143
+['Doesn', 't', 'bring', 'in', 'any', 'business', 'either', '.']    50.240825116043865
+['Bloom', 'wound', 'a', 'skein', 'round', 'four', 'forkfingers', ',', 'stretched', 'it', ',', 'relaxed', ',', 'and', 'wound', 'it', 'round', 'his', 'troubled', 'double', ',', 'fourfold', ',', 'in', 'octave', ',', 'gyved', 'them', 'fast', '.']    2314.78019879243
+['I', 'did', 'all', 'a', 'white', 'man', 'could', '.']    13.880128119521
+['A', 'hoard', 'heaped', 'by', 'the', 'roadside', ':', 'plundered', 'and', 'passing', 'on', '.']    929.3374751193974
+['Henry', '.']    132.29335574547449
+['Not', 'more', 'rational', 'than', 'they', 'had', 'then', 'appeared', ',', 'not', 'less', 'rational', 'than', 'other', 'beliefs', 'and', 'practices', 'now', 'appeared', '.']    219.99466509236154
+['Squeezing', 'or', '.']    113.2835365560183
+['The', 'last', 'articles', '.']    52.51271002326399
+['boss', '!']    20.783012474794592
+['porch', 'of', 'a', 'sleeping', 'ear', '.']    74.25596880742732
+['He', 'had', 'a', 'portfolio', 'full', 'of', 'Celtic', 'literature', 'in', 'one', 'hand', ',', 'in', 'the', 'other', 'a', 'phial', 'marked', '_Poison', '.']    785.4737213623683
+['Plates', ':', 'infants', 'cuddled', 'in', 'a', 'ball', 'in', 'bloodred', 'wombs', 'like', 'livers', 'of', 'slaughtered', 'cows', '.']    4066.115135853586
+['Now', 'could', 'you', 'make', 'out', 'a', 'thing', 'like', 'that', '?']    222.70977865107383
+['Three', 'drams', 'of', 'usquebaugh', 'you', 'drank', 'with', 'Dan', 'Deasy', 's', 'ducats', '.']    2743.588834854177
+['And', 'when', 'he', 's', 'wanted', 'not', 'a', 'farthing', '.']    159.07097532376036
+['The', 'Malahide', 'road', 'was', 'quiet', '.']    504.56285171061154
+['Birds', 'of', 'prey', ',', 'winging', 'from', 'the', 'sea', ',', 'rising', 'from', 'marshlands', ',', 'swooping', 'from', 'eyries', ',', 'hover', 'screaming', ',', 'gannets', ',', 'cormorants', ',', 'vultures', ',', 'goshawks', ',', 'climbing', 'woodcocks', ',', 'peregrines', ',', 'merlins', ',', 'blackgrouse', ',', 'sea', 'eagles', ',', 'gulls', ',', 'albatrosses', ',', 'barnacle', 'geese', '.']    10060.672399805817
+['Wore', 'the', 'breeches', '.']    45.745704476124594
+['Baddybad', 'Stephen', 'lead', 'astray', 'goodygood', 'Malachi', '.']    2309.0109859836225
+['Eugene', 'Stratton', '.']    11.328534855388014
+['Thine', 'heart', ',', 'mine', 'love', '.']    81.07157602284236
+['A', 'soft', 'answer', 'turns', 'away', 'wrath', '.']    891.6103866005363
+['The', 'gay', 'sweet', 'chirping', 'whistling', 'within', 'went', 'on', 'a', 'bar', 'or', 'two', ',', 'ceased', '.']    269.3667957316152
+['Lynch', 'indicates', 'mockingly', 'the', 'couple', 'at', 'the', 'piano', '.']    2392.7397304879655
+['Torry', 'and', 'Alexander', 'last', 'year', '.']    341.8672398551277
+['She', 'had', 'red', 'slippers', 'on', '.']    76.46262487349637
+['He', 's', 'in', 'his', 'sanctum', 'with', 'Lenehan', '.']    226.0633793512561
+['Astounding', '!']    20.783012474794592
+['says', 'he', '.']    75.47797317161387
+['Evening', 'like', 'this', ',', 'but', 'clear', ',', 'no', 'clouds', '.']    98.93258151575971
+['He', 'took', 'it', 'to', 'heart', ',', 'pined', 'away', '.']    22.782896444301883
+['Uncertain', 'in', 'his', 'movements', '.']    29.358313675444926
+['Wonder', 'how', 'is', 'she', 'feeling', 'in', 'that', 'region', '.']    35.05503863470524
+['They', 'wash', 'and', 'tub', 'and', 'scrub', '.']    297.9679771776207
+['No', ',', 'that', 's', 'noise', '.']    40.64136371681675
+['comebig', '!']    20.783012474794592
+['Full', 'gluey', 'woman', 's', 'lips', '.']    200.64059986749052
+['Someone', 'that', 'has', 'nothing', 'better', 'to', 'do', 'ought', 'to', 'write', 'a', 'letter', '_pro', 'bono', 'publico_', 'to', 'the', 'papers', 'about', 'the', 'muzzling', 'order', 'for', 'a', 'dog', 'the', 'like', 'of', 'that', '.']    434.19824998150324
+['Thinks', 'I', 'm', 'a', 'tree', ',', 'so', 'blind', '.']    120.40479334881553
+['Cometh', 'forth', '!']    113.2835365560183
+['I', 'too', '.']    97.17177261479561
+['Who', 'to', 'clear', 'it', '?']    64.76583652052837
+['Stephen', 'looks', 'at', 'it', '.']    45.0169380330252
+['Too', 'many', 'in', 'the', 'world', '.']    256.62210047681435
+['BLOOM', ':', '_', 'Wonderstruck', ',', 'calls', 'inaudibly', '.']    130.0606216928421
+['Pray', 'for', 'him', '!']    701.4002175866523
+['Tritonville', 'road', '.']    11.328399782245555
+['Word', 'known', 'to', 'all', 'men', '.']    286.224483801164
+['What', 'reflection', 'concerning', 'the', 'irregular', 'sequence', 'of', 'dates', '<NUMBER>', ',', '<NUMBER>', ',', '<NUMBER>', ',', '<NUMBER>', ',', '<NUMBER>', ',', '<NUMBER>', ',', '<NUMBER>', 'did', 'Bloom', 'make', 'before', 'their', 'arrival', 'at', 'their', 'destination', '?']    1618.2489141244653
+['Troops', 'deploy', '.']    113.2835365560183
+['It', 's', 'a', 'law', 'something', 'like', 'that', '.']    103.75975639114334
+['Houses', ',', 'lines', 'of', 'houses', ',', 'streets', ',', 'miles', 'of', 'pavements', ',', 'piledup', 'bricks', ',', 'stones', '.']    426.17460672050004
+['Butter', 'and', 'cream', '?']    51.50032631501652
+['Brangan', ',', 'O', '.']    186.08921648712206
+['the', 'pianola', '.']    3.3997370652215806
+['Come', 'on', '.']    167.4278128375406
+['The', 'black', 'north', 'and', 'true', 'blue', 'bible', '.']    121.56290918293814
+['Come', 'on', 'all', '!']    11.785264584081146
+['He', 'unbuttoned', 'successively', 'in', 'reversed', 'direction', 'waistcoat', ',', 'trousers', ',', 'shirt', 'and', 'vest', 'along', 'the', 'medial', 'line', 'of', 'irregular', 'incrispated', 'black', 'hairs', 'extending', 'in', 'triangular', 'convergence', 'from', 'the', 'pelvic', 'basin', 'over', 'the', 'circumference', 'of', 'the', 'abdomen', 'and', 'umbilicular', 'fossicle', 'along', 'the', 'medial', 'line', 'of', 'nodes', 'to', 'the', 'intersection', 'of', 'the', 'sixth', 'pectoral', 'vertebrae', ',', 'thence', 'produced', 'both', 'ways', 'at', 'right', 'angles', 'and', 'terminating', 'in', 'circles', 'described', 'about', 'two', 'equidistant', 'points', ',', 'right', 'and', 'left', ',', 'on', 'the', 'summits', 'of', 'the', 'mammary', 'prominences', '.']    225.39339047347914
+['The', 'seat', 'he', 'sat', 'on', ':', 'warm', '.']    13.535515434569461
+['What', 'did', 'Ignatius', 'Gallaher', 'do', '?']    79.18338871721417
+['Stephen', 'Dedalus', ',', 'professor', 'and', 'author', '.']    418.6656298959484
+['That', 's', 'how', 'the', 'Russians', 'prays', '.']    43.596104334467675
+['I', 'belongs', 'there', '.']    90.23770017363341
+['has', 'been', 'telling', 'some', 'yankee', 'interviewer', 'that', 'you', 'came', 'to', 'him', 'in', 'the', 'small', 'hours', 'of', 'the', 'morning', 'to', 'ask', 'him', 'about', 'planes', 'of', 'consciousness', '.']    308.50739715957286
+['The', 'children', 'of', 'the', 'Male', 'and', 'Female', 'Foundling', 'Hospital', 'who', 'thronged', 'the', 'windows', 'overlooking', 'the', 'scene', 'were', 'delighted', 'with', 'this', 'unexpected', 'addition', 'to', 'the', 'day', 's', 'entertainment', 'and', 'a', 'word', 'of', 'praise', 'is', 'due', 'to', 'the', 'Little', 'Sisters', 'of', 'the', 'Poor', 'for', 'their', 'excellent', 'idea', 'of', 'affording', 'the', 'poor', 'fatherless', 'and', 'motherless', 'children', 'a', 'genuinely', 'instructive', 'treat', '.']    1709.9825161217377
+['Your', 'own', 'name', 'is', 'strange', 'enough', '.']    96.0961787439151
+['My', 'tipple', '.']    34.43203047705591
+['Yes', ',', 'do', 'bedad', '.']    27.30719976835
+['over', 'to', 'the', 'table', '.']    111.28175057544004
+['Stuffy', 'it', 'was', '.']    205.45951444560404
+['More', 'power', 'the', 'Cavan', 'girl', '.']    158.04882017096108
+['We', 'are', 'the', 'last', '.']    407.4732261510259
+['The', 'faithful', 'hermetists', 'await', 'the', 'light', ',', 'ripe', 'for', 'chelaship', ',', 'ringroundabout', 'him', '.']    1684.5365770224594
+['with', 'pomp', 'of', 'tone', '.']    16.770876847349523
+['the', 'Goat', 'amusingly', 'added', ',', 'he', 'was', 'and', 'a', 'cottonball', 'one', '.']    536.3258797268071
+['But', 'can', 'those', 'have', 'been', 'possible', 'seeing', 'that', 'they', 'never', 'were', '?']    200.8861535845654
+['Course', 'hundreds', 'of', 'times', 'you', 'think', 'of', 'a', 'person', 'and', 'don', 't', 'meet', 'him', '.']    258.77697494337303
+['offering', 'a', 'card', '.']    7.559292907992226
+['Limit', 'of', 'the', 'diaphane', 'in', '.']    314.40126439535953
+['Making', 'his', 'day', 's', 'stations', ',', 'the', 'dingy', 'printingcase', ',', 'his', 'three', 'taverns', ',', 'the', 'Montmartre', 'lair', 'he', 'sleeps', 'short', 'night', 'in', ',', 'rue', 'de', 'la', 'Goutte', 'd', 'Or', ',', 'damascened', 'with', 'flyblown', 'faces', 'of', 'the', 'gone', '.']    537.7100960873439
+['Mrs', 'Marion', '.']    138.77245726708261
+['They', 'say', 'they', 'used', 'to', 'give', 'pauper', 'children', 'soup', 'to', 'change', 'to', 'protestants', 'in', 'the', 'time', 'of', 'the', 'potato', 'blight', '.']    433.4764622946412
+['One', 'hour', 's', 'your', 'time', 'to', 'live', ',', 'your', 'last', '.']    9.031889641362943
+['I', 'never', 'saw', 'such', 'a', 'stupid', 'pussens', 'as', 'the', 'pussens', '.']    198.8881134247569
+['His', 'voice', 'is', 'heard', 'mellow', 'from', 'afar', ',', 'merciful', 'male', ',', 'melodious', ':', '_', 'Shall', 'carry', 'my', 'heart', 'to', 'thee', ',', 'Shall', 'carry', 'my', 'heart', 'to', 'thee', ',', 'And', 'the', 'breath', 'of', 'the', 'balmy', 'night', 'Shall', 'carry', 'my', 'heart', 'to', 'thee', '!']    383.0292606871291
+['Vico', 'Road', ',', 'Dalkey', '.']    786.743978419202
+['Jappies', '?']    20.783012474794592
+['Nice', 'enough', 'in', 'its', 'way', ':', 'for', 'a', 'little', 'ballad', '.']    48.9334030849044
+['I', 'should', 'say', 'that', 'only', 'family', 'poets', 'have', 'family', 'lives', '.']    486.99626933056794
+['Warm', 'shoe', '.']    70.84607915744152
+['He', 'held', 'his', 'caved', 'hands', 'a', 'cubit', 'from', 'him', ',', 'frowning', ':', 'I', 'was', 'tucking', 'the', 'rug', 'under', 'her', 'and', 'settling', 'her', 'boa', 'all', 'the', 'time', '.']    522.9049349862051
+['With', 'brief', 'suspiration', 'he', 'reassumed', 'the', 'candle', ',', 'reascended', 'the', 'stairs', ',', 'reapproached', 'the', 'door', 'of', 'the', 'front', 'room', ',', 'hallfloor', ',', 'and', 'reentered', '.']    820.7336204222833
+['Poor', 'Mrs', 'Purefoy', '.']    376.26817417299736
+['To', 'pour', 'o', 'er', 'sluices', 'pouring', 'gushes', '.']    577.6015073484808
+['Phyllis', 'was', 'silent', ':', 'her', 'eyes', 'were', 'sad', 'anemones', '.']    270.56290185380624
+['No', 'meat', 'and', 'milk', 'together', '.']    34.78531432823161
+['How', 'strange', '!']    32.40625977250279
+['One', 'of', 'the', 'bottlenosed', 'fraternity', 'it', 'was', 'went', 'by', 'the', 'name', 'of', 'James', 'Wought', 'alias', 'Saphiro', 'alias', 'Spark', 'and', 'Spiro', ',', 'put', 'an', 'ad', 'in', 'the', 'papers', 'saying', 'he', 'd', 'give', 'a', 'passage', 'to', 'Canada', 'for', 'twenty', 'bob', '.']    1123.1474470539847
+['Tide', 'you', 'over', '.']    311.6597415290216
+['Why', ',', 'I', 'wonder', '.']    112.8009599154395
+['Our', 'staple', 'food', '.']    151.12164522095424
+['Where', 's', 'that', 'bleeding', 'awfur', '?']    95.44450508829969
+['The', 'gravediggers', 'took', 'up', 'their', 'spades', 'and', 'flung', 'heavy', 'clods', 'of', 'clay', 'in', 'on', 'the', 'coffin', '.']    127.33255910608773
+['Funny', 'little', 'beggar', '.']    212.90363036408706
+['Like', 'to', 'give', 'them', 'an', 'odd', 'cigarette', '.']    46.26918681894769
+['European', 'conflagration', '.']    113.2835365560183
+['you', 're', 'a', 'liar', ',', 'excuse', 'me', '.']    1523.6654125850566
+['DISTANT', 'VOICES', ':', 'Dublin', 's', 'burning', '!']    548.6204811011565
+['By', 'Jesus', ',', 'I', 'll', 'crucify', 'him', 'so', 'I', 'will', '.']    724.7569456315965
+['May', 'I', 'trespass', 'on', 'your', 'valuable', 'space', '.']    549.8189602500574
+['If', 'an', 'individual', 'work', 'is', 'unprotected', 'by', 'copyright', 'law', 'in', 'the', 'United', 'States', 'and', 'you', 'are', 'located', 'in', 'the', 'United', 'States', ',', 'we', 'do', 'not', 'claim', 'a', 'right', 'to', 'prevent', 'you', 'from', 'copying', ',', 'distributing', ',', 'performing', ',', 'displaying', 'or', 'creating', 'derivative', 'works', 'based', 'on', 'the', 'work', 'as', 'long', 'as', 'all', 'references', 'to', 'Project', 'Gutenberg', 'are', 'removed', '.']    725.4027361575221
+['She', 'could', 'without', 'difficulty', ',', 'he', 'said', ',', 'have', 'posed', 'for', 'the', 'ensemble', ',', 'not', 'to', 'dwell', 'on', 'certain', 'opulent', 'curves', 'of', 'the', '.']    312.11368626688756
+['Ned', 'Lambert', 'glanced', 'back', '.']    45.08262361212917
+['Land', 'him', 'in', 'chokeechokee', 'if', 'the', 'harman', 'beck', 'copped', 'the', 'game', '.']    1433.0304000121962
+['Then', 'Paddy', 'Hooper', 'worked', 'Tay', 'Pay', 'who', 'took', 'him', 'on', 'to', 'the', '_Star', '.']    82.48024716420711
+['She', 'would', 'make', 'the', 'great', 'sacrifice', '.']    15.506775560292894
+['jingled', '.']    20.783012474794592
+['So', 'in', 'comes', 'Martin', 'asking', 'where', 'was', 'Bloom', '.']    278.48781228986724
+['All', 'human', 'history', 'moves', 'towards', 'one', 'great', 'goal', ',', 'the', 'manifestation', 'of', 'God', '.']    822.9695866111139
+['What', 'idiosyncracies', 'of', 'the', 'narrator', 'were', 'concomitant', 'products', 'of', 'amnesia', '?']    293.74776509731527
+['Petticoats', 'for', 'Molly', '.']    51.500886582729684
+['If', 'I', 'could', 'get', 'that', 'dressmaker', 'to', 'make', 'a', 'concertina', 'skirt', 'like', 'Susy', 'Nagle', 's', '.']    886.5144313786789
+['Aids', 'to', 'digestion', '.']    350.86415240837715
+['PRIVATE', 'COMPTON', ':', '_', 'Laughs', '.']    392.5638275046448
+['She', 's', 'well', 'nourished', ',', 'I', 'tell', 'you', '.']    241.92127213970545
+['Now', 'you', 'mention', 'it', 'his', 'face', 'was', 'familiar', 'to', 'me', '.']    39.138614459690615
+['BLOOM', ':', '_', 'Goaded', ',', 'buttocksmothered', '.']    223.38239994241258
+['VIRAG', ':', '_', 'Sloughing', 'his', 'skins', ',', 'his', 'multitudinous', 'plumage', 'moulting', '.']    1554.9605454424795
+['Marry', 'in', 'May', 'and', 'repent', 'in', 'December', '.']    991.3095906261079
+['Not', 'as', 'much', 'as', 'would', 'blind', 'your', 'eye', '.']    1197.3646113753227
+['Bronze', 'by', 'gold', 'heard', 'the', 'hoofirons', ',', 'steelyringing', '.']    773.213299003848
+['Must', 'have', 'sweated', ':', 'music', '.']    480.2211791930107
+['he', 'asked', '.']    61.35807390510226
+['THE', 'MOTORMAN', ':', 'Hey', ',', 'shitbreeches', ',', 'are', 'you', 'doing', 'the', 'hat', 'trick', '?']    395.59345441411415
+['our', 'misfortunes', '.']    113.2835365560183
+['PRIVATE', 'CARR', ',', 'PRIVATE', 'COMPTON', 'AND', 'CISSY', 'CAFFREY', ':', 'Yet', 'I', 've', 'a', 'sort', 'of', 'a', 'Yorkshire', 'relish', 'for', '.']    338.7597815196458
+['In', 'a', 'moment', 'they', 'will', 'laugh', 'more', 'loudly', ',', 'aware', 'of', 'my', 'lack', 'of', 'rule', 'and', 'of', 'the', 'fees', 'their', 'papas', 'pay', '.']    505.6274640716337
+['Corny', 'Kelleher', 'replies', 'with', 'a', 'ghastly', 'lewd', 'smile', '.']    758.7293758178878
+['says', 'the', 'citizen', '.']    135.87530964712775
+['Molly', ',', 'her', 'underjaw', 'stuck', 'out', ',', 'head', 'back', ',', 'about', 'the', 'farmer', 'in', 'the', 'ridingboots', 'and', 'spurs', 'at', 'the', 'horse', 'show', '.']    290.3808359622707
+['His', 'heart', 'astir', 'he', 'pushed', 'in', 'the', 'door', 'of', 'the', 'Burton', 'restaurant', '.']    614.3806179361377
+['Pepper', '.']    17.39887064294224
+['Clever', 'little', 'minx', '.']    260.56155627780566
+['Up', 'to', 'you', ',', 'matey', '.']    121.02211398045478
+['Now', '.']    61.94552101587893
+['Thou', 'lost', 'one', '.']    31.25082662338514
+['And', 'his', 'wife', 'engagement', 'in', 'the', 'country', 'valise', ',', 'voice', 'like', 'a', 'pickaxe', '.']    72.55305487413979
+['Caressing', 'the', 'little', 'boy', 'too', '.']    81.07279875437543
+['That', 'means', 'the', 'transmigration', 'of', 'souls', '.']    242.94325137744545
+['Can', 'you', 'give', 'us', 'a', 'good', 'one', 'for', 'the', 'Gold', 'cup', '?']    52.839323824707634
+['That', 'hectic', 'flush', 'spells', 'finis', 'for', 'a', 'man', '.']    1496.6954462760314
+['Hell', 'upon', 'earth', 'it', 'is', '.']    137.63184105614596
+['He', 'came', 'a', 'step', 'a', 'sinkapace', 'forward', 'on', 'neatsleather', 'creaking', 'and', 'a', 'step', 'backward', 'a', 'sinkapace', 'on', 'the', 'solemn', 'floor', '.']    241.0564450780448
+['Twentyeight', '.']    11.558321623806648
+['He', 's', 'there', ',', 'all', 'that', 'was', 'mortal', 'of', 'him', '.']    105.39331293730154
+['Mr', 'Bloom', 'turned', 'his', 'largelidded', 'eyes', 'with', 'unhasty', 'friendliness', '.']    230.18632905742516
+['Full', 'of', 'the', 'best', 'liqueurs', '.']    141.06136557241652
+['To', 'the', 'old', 'dingdong', 'again', '.']    25.966168998779942
+['If', 'she', 'found', 'out', '.']    44.86019501419678
+['The', 'blond', 'girl', 'glanced', 'sideways', 'at', 'him', ',', 'got', 'up', 'regardless', ',', 'with', 'his', 'tie', 'a', 'bit', 'crooked', ',', 'blushing', '.']    522.3666871908015
+['Cranly', ',', 'I', 'his', 'mute', 'orderly', ',', 'following', 'battles', 'from', 'afar', '.']    560.4241452114871
+['Better', 'turn', 'down', 'here', '.']    342.19559173243385
+['Mark', 'time', '.']    65.75059115639624
+['Glad', 'after', 'she', 'was', 'that', 'ere', 'adread', 'was', '.']    151.05612506753963
+['O', 'Molloy', 'he', 'came', 'forth', 'slowly', 'into', 'Mary', 's', 'abbey', 'where', 'draymen', 'were', 'loading', 'floats', 'with', 'sacks', 'of', 'carob', 'and', 'palmnut', 'meal', ',', 'O', 'Connor', ',', 'Wexford', '.']    1326.392788240815
+['Young', 'Colum', 'and', 'Starkey', '.']    438.2335108184032
+['Both', 'preferred', 'a', 'continental', 'to', 'an', 'insular', 'manner', 'of', 'life', ',', 'a', 'cisatlantic', 'to', 'a', 'transatlantic', 'place', 'of', 'residence', '.']    235.4228697326671
+['curiosity', 'to', 'find', 'out', 'whether', 'some', 'person', 's', 'something', 'is', 'a', 'little', 'teapot', 'at', 'present', '.']    131.0176228207436
+['On', 'the', 'antlered', 'rack', 'of', 'the', 'hall', 'hang', 'a', 'man', 's', 'hat', 'and', 'waterproof', '.']    168.6908032005693
+['Astronomy', 'it', 'was', 'about', '.']    137.35174770182195
+['A', 'temporary', 'departure', 'of', 'his', 'cat', '.']    268.7169976935643
+['What', 'is', 'it', '?']    85.29806957375943
+['If', 'Judas', 'go', 'forth', 'tonight', 'it', 'is', 'to', 'Judas', 'his', 'steps', 'will', 'tend', '.']    1460.8681948613544
+['It', 'ill', 'becomes', 'him', 'to', 'preach', 'that', 'gospel', '.']    296.82703405237714
+['STEPHEN', ':', '_Looks', 'behind_', '.']    139.55069828659805
+['Bit', 'torn', 'off', '.']    222.97238858274054
+['I', 'conceive', 'you', ',', 'says', 'Mr', 'Dixon', '.']    615.1345731029835
+['That', 'secondhand', 'black', 'operatop', 'shift', 'and', 'short', 'trunkleg', 'naughties', 'all', 'split', 'up', 'the', 'stitches', 'at', 'her', 'last', 'rape', 'that', 'Mrs', 'Miriam', 'Dandrade', 'sold', 'you', 'from', 'the', 'Shelbourne', 'hotel', ',', 'eh', '?']    498.04584904630565
+['Where', 'we', '.']    33.368743263261095
+['Keep', 'her', 'off', 'that', 'bottle', 'of', 'sherry', '.']    68.64111660978394
+['He', 'had', 'been', 'meantime', 'taking', 'stock', 'of', 'the', 'individual', 'in', 'front', 'of', 'him', 'and', 'Sherlockholmesing', 'him', 'up', 'ever', 'since', 'he', 'clapped', 'eyes', 'on', 'him', '.']    257.06996553571304
+['Or', 'she', 'knew', 'him', ',', 'that', 'second', 'I', 'say', ',', 'and', 'was', 'but', 'creature', 'of', 'her', 'creature', ',', '_vergine', 'madre', ',', 'figlia', 'di', 'tuo', 'figlio_', ',', 'or', 'she', 'knew', 'him', 'not', 'and', 'then', 'stands', 'she', 'in', 'the', 'one', 'denial', 'or', 'ignorancy', 'with', 'Peter', 'Piscator', 'who', 'lives', 'in', 'the', 'house', 'that', 'Jack', 'built', 'and', 'with', 'Joseph', 'the', 'joiner', 'patron', 'of', 'the', 'happy', 'demise', 'of', 'all', 'unhappy', 'marriages', ',', '_parceque', 'M', '.']    534.2528924923051
+['Mr', 'Dedalus', 'struck', ',', 'whizzed', ',', 'lit', ',', 'puffed', 'savoury', 'puff', 'after', 'Irish', '?']    1330.9740902266976
+['friend', '.']    20.783012474794592
+['Too', 'ugly', '.']    44.18102792757414
+['E', 'en', 'so', '.']    350.86415240837715
+['Ours', 'the', 'white', 'death', 'and', 'the', 'ruddy', 'birth', '.']    2822.102418831945
+['I', 'm', 'thirteen', '.']    35.5388234315165
+['It', 'had', 'better', 'be', 'stated', 'here', 'and', 'now', 'at', 'the', 'outset', 'that', 'the', 'perverted', 'transcendentalism', 'to', 'which', 'Mr', 'S', '.']    317.344182240008
+['Who', 'is', 'that', 'beside', 'them', '?']    24.666299802931075
+['Do', '.']    76.08886000994717
+['Not', 'in', 'full', 'possession', 'of', 'faculties', '.']    83.76760373535602
+['And', 'Monsieur', 'Drumont', ',', 'gentleman', 'journalist', '.']    76.49989846107032
+['Stand', 'and', 'deliver', '.']    222.97238858274054
+['A', 'DEADHAND', ':', '_', 'Writes', 'on', 'the', 'wall', '.']    441.79447080183735
+['All', 'are', 'washed', 'in', 'the', 'blood', 'of', 'the', 'lamb', '.']    947.6254953178742
+['Soft', 'warm', 'sticky', 'gumjelly', 'lips', '.']    942.6819126351432
+['Scowl', 'or', 'smile', '.']    350.86415240837715
+['I', 'tore', 'up', 'the', 'envelope', '?']    6.944164338296046
+['I', 'can', 't', 'remember', 'anything', '.']    172.72986321260703
+['What', 'becomes', 'of', 'it', 'after', '?']    32.242256792138164
+['Ravisher', 'and', 'ravished', ',', 'what', 'he', 'would', 'but', 'would', 'not', ',', 'go', 'with', 'him', 'from', 'Lucrece', 's', 'bluecircled', 'ivory', 'globes', 'to', 'Imogen', 's', 'breast', ',', 'bare', ',', 'with', 'its', 'mole', 'cinquespotted', '.']    433.49009229539206
+['But', 'she', 'was', 'sincerity', 'itself', ',', 'one', 'of', 'the', 'bravest', 'and', 'truest', 'hearts', 'heaven', 'ever', 'made', ',', 'not', 'one', 'of', 'your', 'twofaced', 'things', ',', 'too', 'sweet', 'to', 'be', 'wholesome', '.']    378.8506461533245
+['Hold', 'her', 'nozzle', 'again', 'the', 'bank', '.']    118.68871949449773
+['But', 'what', 'did', 'we', 'ever', 'get', 'for', 'it', '?']    29.43179404882933
+['To', 'attendance', 'on', 'your', 'wife', '.']    30.209052178203535
+['ZOE', ':', '_', 'Holds', 'up', 'her', 'hand', '.']    363.0267696264703
+['He', 'had', 'not', 'risked', ',', 'he', 'did', 'not', 'expect', ',', 'he', 'had', 'not', 'been', 'disappointed', ',', 'he', 'was', 'satisfied', '.']    379.1082604864743
+['My', 'fireworks', '.']    34.43203047705591
+['Her', 'posies', 'too', '!']    131.23460220929616
+['Morning', 'after', 'the', 'bazaar', 'dance', 'when', 'May', 's', 'band', 'played', 'Ponchielli', 's', 'dance', 'of', 'the', 'hours', '.']    1235.5428186725694
+['Whoever', 'embarked', 'on', 'a', 'policy', 'of', 'the', 'sort', ',', 'he', 'said', ',', 'and', 'ventilated', 'the', 'matter', 'thoroughly', 'would', 'confer', 'a', 'lasting', 'boon', 'on', 'everybody', 'concerned', '.']    2314.045709802149
+['It', 'skills', 'not', '.']    15.82900591600493
+['He', 'll', 'see', 'you', 'after', 'at', 'the', 'D', '.']    18.391402685404444
+['His', 'lips', 'lipped', 'and', 'mouthed', 'fleshless', 'lips', 'of', 'air', ':', 'mouth', 'to', 'her', 'moomb', '.']    294.5226449824466
+['Three', 'nooses', 'round', 'me', 'here', '.']    169.22588256784633
+['Maybe', 'he', 'understands', 'what', 'I', '.']    273.514223221279
+['Hope', 'they', 'have', 'liver', 'and', 'bacon', 'today', '.']    71.98192093702701
+['The', 'cane', 'moved', 'out', 'trembling', 'to', 'the', 'left', '.']    1356.5483823363106
+['That', 'was', 'a', 'tuningfork', 'the', 'tuner', 'had', 'that', 'he', 'forgot', 'that', 'he', 'now', 'struck', '.']    99.81205132709724
+['John', 'Eglinton', 'shifted', 'his', 'spare', 'body', ',', 'leaning', 'back', 'to', 'judge', '.']    14.648859333984767
+['Then', 'I', 'will', 'tell', 'you', 'all', '.']    950.9682021464919
+['You', 'naughty', 'too', '?']    110.20218055950177
+['Nettled', 'not', 'a', 'little', 'by', 'L', '.']    137.76935755557128
+['Rotunda', 'Ward', ',', '<NUMBER>', 'Hardwicke', 'street', ',', 'under', 'the', 'obituary', 'notices', 'and', 'anniversaries', 'of', 'deceases', '.']    909.5761379061934
+['BLOOM', ':', 'What', 'railway', 'opera', 'is', 'like', 'a', 'tramline', 'in', 'Gibraltar', '?']    219.92574815945179
+['Is', 'that', 'a', 'fact', '?']    164.7199302534999
+['Why', 'did', 'you', 'enclose', 'the', 'stamps', '?']    191.2276758896829
+['O', 'Molloy', 'said', 'not', 'without', 'regret', ':', 'And', 'yet', 'he', 'died', 'without', 'having', 'entered', 'the', 'land', 'of', 'promise', '.']    429.77665018829117
+['A', 'drunken', 'navvy', 'grips', 'with', 'both', 'hands', 'the', 'railings', 'of', 'an', 'area', ',', 'lurching', 'heavily', '.']    101.10005707456651
+['They', 'charge', '!']    28.41187935344462
+['No', ',', 'snuffled', 'it', 'up', '.']    195.35601348023
+['Now', 'drink', 'we', ',', 'quod', 'he', ',', 'of', 'this', 'mazer', 'and', 'quaff', 'ye', 'this', 'mead', 'which', 'is', 'not', 'indeed', 'parcel', 'of', 'my', 'body', 'but', 'my', 'soul', 's', 'bodiment', '.']    225.48221807485743
+['But', 'he', 'had', 'overmuch', 'drunken', 'and', 'the', 'best', 'word', 'he', 'could', 'have', 'of', 'him', 'was', 'that', 'he', 'would', 'ever', 'dishonest', 'a', 'woman', 'whoso', 'she', 'were', 'or', 'wife', 'or', 'maid', 'or', 'leman', 'if', 'it', 'so', 'fortuned', 'him', 'to', 'be', 'delivered', 'of', 'his', 'spleen', 'of', 'lustihead', '.']    484.27489991719546
+['Here', ',', 'Jock', 'braw', 'Hielentman', 's', 'your', 'barleybree', '.']    723.8207269136277
+['Fecking', 'matches', 'from', 'counters', 'to', 'save', '.']    642.5046387928253
+['Murphy', '.']    198.0048644153647
+['the', 'beautiful', 'May', 'Goulding', '.']    12.413437090961041
+['That', 's', 'how', 'that', 'wise', 'man', 'what', 's', 'his', 'name', 'with', 'the', 'burning', 'glass', '.']    53.99322648103558
+['Give', 'us', 'that', 'brisket', 'off', 'the', 'hook', '.']    127.34442911062338
+['Dust', 'slept', 'on', 'dull', 'coils', 'of', 'bronze', 'and', 'silver', ',', 'lozenges', 'of', 'cinnabar', ',', 'on', 'rubies', ',', 'leprous', 'and', 'winedark', 'stones', '.']    1241.2134695151897
+['ruffling', 'her', 'nosewings', '.']    350.86415240837715
+['He', 'added', 'in', 'a', 'preacher', 's', 'tone', ':', 'For', 'this', ',', 'O', 'dearly', 'beloved', ',', 'is', 'the', 'genuine', 'Christine', ':', 'body', 'and', 'soul', 'and', 'blood', 'and', 'ouns', '.']    295.3392737462469
+['Black', '.']    127.28401377878744
+['Come', 'on', '.']    167.4278128375406
+['Do', ',', 'Ben', ',', 'do', '.']    124.09693583324582
+['FLORRY', ':', 'What', '?']    51.45733024416314
+['Quite', 'apart', 'from', 'that', 'he', 'disliked', 'those', 'careers', 'of', 'wrongdoing', 'and', 'crime', 'on', 'principle', '.']    719.9094015846542
+['No', 'poetic', 'licence', '.']    113.55040346555161
+['What', '?']    17.606517906706156
+['Same', 'time', 'doing', 'it', 'scraped', 'her', 'slipper', 'on', 'the', 'floor', 'so', 'they', 'wouldn', 't', 'hear', '.']    518.6314780355649
+['Think', 'that', 'pugnosed', 'driver', 'did', 'it', 'out', 'of', 'spite', '.']    180.06714576039394
+['Pennyweight', 'of', 'powder', 'in', 'a', 'skull', '.']    527.3146197059427
+['If', 'you', 'have', 'none', 'see', 'you', 'damn', 'well', 'get', 'it', ',', 'steal', 'it', ',', 'rob', 'it', '!']    71.42153932063488
+['Buttoning', 'it', 'down', ',', 'his', 'chin', 'lifted', ',', 'he', 'saw', 'the', 'image', 'of', 'Marie', 'Kendall', ',', 'charming', 'soubrette', ',', 'beside', 'the', 'two', 'puckers', '.']    75.52956612839965
+['Queen', 'of', 'angels', ',', 'queen', 'of', 'patriarchs', ',', 'queen', 'of', 'prophets', ',', 'of', 'all', 'saints', ',', 'they', 'prayed', ',', 'queen', 'of', 'the', 'most', 'holy', 'rosary', 'and', 'then', 'Father', 'Conroy', 'handed', 'the', 'thurible', 'to', 'Canon', 'O', 'Hanlon', 'and', 'he', 'put', 'in', 'the', 'incense', 'and', 'censed', 'the', 'Blessed', 'Sacrament', 'and', 'Cissy', 'Caffrey', 'caught', 'the', 'two', 'twins', 'and', 'she', 'was', 'itching', 'to', 'give', 'them', 'a', 'ringing', 'good', 'clip', 'on', 'the', 'ear', 'but', 'she', 'didn', 't', 'because', 'she', 'thought', 'he', 'might', 'be', 'watching', 'but', 'she', 'never', 'made', 'a', 'bigger', 'mistake', 'in', 'all', 'her', 'life', 'because', 'Gerty', 'could', 'see', 'without', 'looking', 'that', 'he', 'never', 'took', 'his', 'eyes', 'off', 'of', 'her', 'and', 'then', 'Canon', 'O', 'Hanlon', 'handed', 'the', 'thurible', 'back', 'to', 'Father', 'Conroy', 'and', 'knelt', 'down', 'looking', 'up', 'at', 'the', 'Blessed', 'Sacrament', 'and', 'the', 'choir', 'began', 'to', 'sing', 'the', '_Tantum', 'ergo_', 'and', 'she', 'just', 'swung', 'her', 'foot', 'in', 'and', 'out', 'in', 'time', 'as', 'the', 'music', 'rose', 'and', 'fell', 'to', 'the', '_Tantumer', 'gosa', 'cramen', 'tum_', '.']    17.46771208019922
+['Drink', '.']    8.886395343326159
+['Molly', '.']    93.28463292311694
+['He', 'pressed', 'the', 'same', 'who', 'pressed', 'indulgently', 'her', 'hand', ',', 'soft', 'pedalling', ',', 'a', 'triple', 'of', 'keys', 'to', 'see', 'the', 'thicknesses', 'of', 'felt', 'advancing', ',', 'to', 'hear', 'the', 'muffled', 'hammerfall', 'in', 'action', '.']    451.0528948951239
+['cuddling', 'him', 'with', 'supple', 'warmth', '.']    341.9012523686185
+['Come', '!']    79.20574346793832
+['What', 'swells', 'him', 'up', 'that', 'way', '?']    241.65760631598926
+['She', 'smilesmirked', 'supercilious', 'wept', '!']    285.60408683570347
+['To', 'think', 'of', 'him', 'house', 'and', 'homeless', ',', 'rooked', 'by', 'some', 'landlady', 'worse', 'than', 'any', 'stepmother', ',', 'was', 'really', 'too', 'bad', 'at', 'his', 'age', '.']    436.91794863471
+['Never', 'forget', 'that', 'night', '.']    240.62172292544756
+['Come', '.']    42.33036358498374
+['And', 'among', 'the', 'five', 'young', 'trees', 'a', 'hoisted', 'lintstock', 'lit', 'the', 'lamp', 'at', 'Leahy', 's', 'terrace', '.']    957.8287551914028
+['says', 'Joe', '.']    48.495956582444855
+['Sinn', 'Fein', '.']    11.328492033279272
+['Steered', 'by', 'his', 'rapier', ',', 'he', 'glides', 'to', 'the', 'door', ',', 'his', 'wild', 'harp', 'slung', 'behind', 'him', '.']    1198.0013106871563
+['A', 'cork', 'and', 'bottle', '.']    49.46904475072725
+['I', 'm', 'not', 'a', 'hero', ',', 'however', '.']    39.26526890796959
+['No', '.']    18.929737033219993
+['The', 'cry', 'brought', 'him', 'skulking', 'back', 'to', 'his', 'master', 'and', 'a', 'blunt', 'bootless', 'kick', 'sent', 'him', 'unscathed', 'across', 'a', 'spit', 'of', 'sand', ',', 'crouched', 'in', 'flight', '.']    122.37089351301293
+['Three', '.']    6.082951914563832
+['And', 'that', 'other', 'old', 'mosey', 'lunatic', 'in', 'those', 'duds', '.']    134.79358900392575
+['He', 'twirls', 'in', 'reversed', 'directions', 'a', 'clouded', 'cane', ',', 'then', 'wedges', 'it', 'tight', 'in', 'his', 'oxter', '.']    522.003832637905
+['Also', 'now', '.']    47.11307658325934
+['The', 'carriage', 'galloped', 'round', 'a', 'corner', ':', 'stopped', '.']    150.033951200757
+['JOHN', 'WYSE', 'NOLAN', ':', 'There', 's', 'the', 'man', 'that', 'got', 'away', 'James', 'Stephens', '.']    4213.145116153254
+['Judge', 'of', 'his', 'astonishment', 'when', 'he', 'finally', 'did', 'breast', 'the', 'tape', 'and', 'the', 'awful', 'truth', 'dawned', 'upon', 'him', 'anent', 'his', 'better', 'half', ',', 'wrecked', 'in', 'his', 'affections', '.']    940.3478051339447
+['Trust', '?']    17.39887064294224
+['Do', '!']    5.111057029801252
+['And', 'once', 'at', 'masstime', 'he', 'had', 'gone', 'to', 'play', '.']    60.001956469946144
+['Houses', 'of', 'mourning', 'so', 'depressing', 'because', 'you', 'never', 'know', '.']    1427.4364368090396
+['CORNY', 'KELLEHER', ':', '_', 'Nudges', 'the', 'second', 'watch', '.']    399.32725271365877
+['But', 'a', 'type', 'like', 'that', '.']    250.03411993376676
+['You', 'were', 'going', 'to', 'do', 'wonders', ',', 'what', '?']    290.98416246007383
+['Father', 'Conmee', 'stopped', 'three', 'little', 'schoolboys', 'at', 'the', 'corner', 'of', 'Mountjoy', 'square', '.']    1324.884887292801
+['The', 'word', 'known', 'to', 'all', 'men', '.']    163.51509760324845
+['Not', 'a', 'bit', '.']    221.0235010760892
+['Item', ':', 'was', 'Hamlet', 'mad', '?']    312.7971158822855
+['Very', 'encouraging', '.']    49.131124256215394
+['Courteous', 'offer', 'a', 'fair', 'trial', '.']    1206.91212685642
+['Outtohelloutofthat', '.']    20.783012474794592
+['Nothing', 'new', 'under', 'the', 'sun', '.']    1547.6422152844036
+['And', 'then', 'there', 'came', 'out', 'upon', 'the', 'air', 'the', 'sound', 'of', 'voices', 'and', 'the', 'pealing', 'anthem', 'of', 'the', 'organ', '.']    58.80829313358243
+['Beefeaters', 'reply', ',', 'winding', 'clarions', 'of', 'welcome', '.']    1064.3517232634156
+['Alone', ',', 'what', 'did', 'Bloom', 'feel', '?']    1380.7912864695306
+['The', 'chords', 'consented', '.']    76.87091856936033
+['Onions', 'of', 'his', 'breath', 'came', 'across', 'the', 'counter', 'out', 'of', 'his', 'ruined', 'mouth', '.']    114.99574585469036
+['Electric', '.']    17.39887064294224
+['By', 'God', ',', 'he', 'wasn', 't', 'far', 'wide', 'of', 'the', 'mark', '.']    265.9987416974665
+['She', 'thanked', 'me', '.']    107.57841812020831
+['Wylie', 'and', 'in', 'the', 'fashionable', 'intelligence', 'Mrs', 'Gertrude', 'Wylie', 'was', 'wearing', 'a', 'sumptuous', 'confection', 'of', 'grey', 'trimmed', 'with', 'expensive', 'blue', 'fox', 'was', 'not', 'to', 'be', '.']    1013.07507835412
+['Tea', '.']    104.12594150280222
+['It', 'slapped', 'open', 'and', 'he', 'took', 'from', 'it', 'two', 'notes', ',', 'one', 'of', 'joined', 'halves', ',', 'and', 'laid', 'them', 'carefully', 'on', 'the', 'table', '.']    237.92271541850428
+['Lean', 'people', 'long', 'mouths', '.']    609.6295434105841
+['The', 'belly', 'is', 'the', 'smoothest', '.']    6.730372369390111
+['panting', ',', 'sweating', 'O', '!']    29.32713089041287
+['My', 'lips', 'closed', '.']    130.0575379594659
+['She', 'is', 'a', 'hoary', 'pandemonium', 'of', 'ills', ',', 'enlarged', 'glands', ',', 'mumps', ',', 'quinsy', ',', 'bunions', ',', 'hayfever', ',', 'bedsores', ',', 'ringworm', ',', 'floating', 'kidney', ',', 'Derbyshire', 'neck', ',', 'warts', ',', 'bilious', 'attacks', ',', 'gallstones', ',', 'cold', 'feet', ',', 'varicose', 'veins', '.']    3381.5917922596177
+['Eaten', 'a', 'bad', 'egg', '.']    137.23017486068133
+['Paddy', 'Leonard', 'said', 'with', 'scorn', '.']    162.76806710496584
+['We', 're', 'nae', 'tha', 'fou', '.']    1248.4302156834315
+['In', 'Rodot', 's', 'Yvonne', 'and', 'Madeleine', 'newmake', 'their', 'tumbled', 'beauties', ',', 'shattering', 'with', 'gold', 'teeth', '_chaussons_', 'of', 'pastry', ',', 'their', 'mouths', 'yellowed', 'with', 'the', '_pus_', 'of', '_flan', 'bréton_', '.']    2001.8621018044475
+['And', 'he', 'took', 'the', 'last', 'swig', 'out', 'of', 'the', 'pint', '.']    90.28083954604587
+['Mr', 'Dedalus', 'bent', 'across', 'to', 'salute', '.']    42.74514932113406
+['Who', 'tore', 'it', '?']    19.050379976967868
+['Father', 'Conmee', 'greeted', 'them', 'more', 'than', 'once', 'benignly', '.']    512.5493165142543
+['He', 'knows', 'your', 'old', 'fellow', '.']    977.4985808520561
+['Aftereffect', 'not', 'pleasant', '.']    350.86415240837715
+['A', 'pad', '.']    20.43220391735255
+['Swans', 'from', 'Anna', 'Liffey', 'swim', 'down', 'here', 'sometimes', 'to', 'preen', 'themselves', '.']    752.4747504610012
+['Do', 'you', 'know', 'what', 'is', 'the', 'pride', 'of', 'the', 'English', '?']    469.32251778904464
+['Otherwise', 'I', 'couldn', 't', 'have', '.']    42.41338337999416
+['Eat', 'you', 'out', 'of', 'house', 'and', 'home', '.']    570.8049000378982
+['Great', 'nationalist', 'meeting', 'in', 'Borris', 'in', 'Ossory', '.']    736.1339231453422
+['She', 'took', 'his', 'first', 'embraces', '.']    24.91196592442482
+['Wetherup', 'always', 'said', 'that', '.']    137.23189998248495
+['Highly', 'unlikely', 'of', 'course', 'there', 'was', 'even', 'a', 'shadow', 'of', 'truth', 'in', 'the', 'stones', 'and', ',', 'even', 'supposing', ',', 'he', 'thought', 'a', 'return', 'highly', 'inadvisable', ',', 'all', 'things', 'considered', '.']    117.7287633779534
+['Their', 'souls', 'met', 'in', 'a', 'last', 'lingering', 'glance', 'and', 'the', 'eyes', 'that', 'reached', 'her', 'heart', ',', 'full', 'of', 'a', 'strange', 'shining', ',', 'hung', 'enraptured', 'on', 'her', 'sweet', 'flowerlike', 'face', '.']    184.98385173398296
+['With', 'Hamilton', 'Long', 's', 'syringe', ',', 'the', 'ladies', 'friend', '.']    190.60780531805582
+['Gets', 'on', 'your', 'nerves', '.']    117.70680718042604
+['All', 'breadcrumbs', 'they', 'are', '.']    194.13334155104243
+['Maybe', ',', 'like', 'Socrates', ',', 'he', 'had', 'a', 'midwife', 'to', 'mother', 'as', 'he', 'had', 'a', 'shrew', 'to', 'wife', '.']    564.9900183794217
+['Meh', '.']    20.783012474794592
+['All', 'the', 'same', 'he', 'must', 'have', 'been', 'a', 'bit', 'of', 'a', 'natural', 'not', 'to', 'see', 'it', 'was', 'a', 'yeoman', 'cap', '.']    840.195752405766
+['How', 'the', 'head', 'centre', 'got', 'away', ',', 'authentic', 'version', '.']    197.75711216453396
+['Then', 'did', 'you', ',', 'chivalrous', 'Terence', ',', 'hand', 'forth', ',', 'as', 'to', 'the', 'manner', 'born', ',', 'that', 'nectarous', 'beverage', 'and', 'you', 'offered', 'the', 'crystal', 'cup', 'to', 'him', 'that', 'thirsted', ',', 'the', 'soul', 'of', 'chivalry', ',', 'in', 'beauty', 'akin', 'to', 'the', 'immortals', '.']    523.0149134776625
+['Can', 'you', 'ask', '?']    13.454364009685488
+['I', 'm', 'the', 'bloody', 'well', 'gigant', 'rolls', 'all', 'them', 'bloody', 'well', 'boulders', ',', 'bones', 'for', 'my', 'steppingstones', '.']    441.95335430472994
+['Policeman', 's', 'shoulders', '.']    171.87976669910796
+['Body', 'fifty', 'different', 'colours', '.']    609.6295434105841
+['Catches', 'the', 'eye', ',', 'you', 'see', '.']    74.98459712103514
+['Hundred', 'pounds', '.']    70.84634695817765
+['You', 're', 'a', 'witness', '.']    111.19248718144412
+['profusely', '.']    20.783012474794592
+['Hurray', 'for', 'the', 'Goddamned', 'idiot', '!']    966.4189924660626
+['BLOOM', ':', '_', 'Whimpers', '.']    39.05119853790714
+['See', 'his', 'phiz', 'then', '.']    368.4577732219549
+['His', 'right', 'hand', 'once', 'more', 'more', 'slowly', 'went', 'over', 'his', 'brow', 'and', 'hair', '.']    528.1827824863186
+['As', 'not', 'so', 'calamitous', 'as', 'a', 'cataclysmic', 'annihilation', 'of', 'the', 'planet', 'in', 'consequence', 'of', 'a', 'collision', 'with', 'a', 'dark', 'sun', '.']    636.3839040825844
+['he', 'said', '.']    50.867462595251936
+['THE', 'SLUTS', ':', 'O', ',', 'Leopold', 'lost', 'the', 'pin', 'of', 'his', 'drawers', 'He', 'didn', 't', 'know', 'what', 'to', 'do', ',', 'To', 'keep', 'it', 'up', ',', 'To', 'keep', 'it', 'up', '.']    1271.3059576418302
+['Year', 'before', 'we', '.']    33.97226493483703
+['Bring', 'all', 'your', 'powers', 'of', 'fascination', 'to', 'bear', 'on', 'them', '.']    139.64194285795463
+['Thereat', 'laughed', 'they', 'all', 'right', 'jocundly', 'only', 'young', 'Stephen', 'and', 'sir', 'Leopold', 'which', 'never', 'durst', 'laugh', 'too', 'open', 'by', 'reason', 'of', 'a', 'strange', 'humour', 'which', 'he', 'would', 'not', 'bewray', 'and', 'also', 'for', 'that', 'he', 'rued', 'for', 'her', 'that', 'bare', 'whoso', 'she', 'might', 'be', 'or', 'wheresoever', '.']    575.8353737068318
+['He', 'poked', 'Mr', 'O', 'Madden', 'Burke', 'mildly', 'in', 'the', 'spleen', '.']    374.3730694277914
+['Go', 'back', '.']    47.73149033741282
+['From', 'which', 'if', 'any', 'of', 'these', 'mental', 'or', 'physical', 'disorders', 'was', 'he', 'not', 'totally', 'immune', '?']    436.83645285003985
+['I', 'daresay', 'the', 'soil', 'would', 'be', 'quite', 'fat', 'with', 'corpsemanure', ',', 'bones', ',', 'flesh', ',', 'nails', '.']    277.5772539254928
+['Queer', 'because', 'we', 'both', ',', 'I', 'mean', '.']    132.4253927080531
+['General', 'paralysis', 'of', 'the', 'insane', '!']    236.24414534115473
+['They', 'waded', 'a', 'little', 'way', 'in', 'the', 'water', 'and', ',', 'stooping', ',', 'soused', 'their', 'bags', 'and', ',', 'lifting', 'them', 'again', ',', 'waded', 'out', '.']    655.3203306963161
+['Going', 'down', 'the', 'path', 'of', 'Sycamore', 'street', 'beside', 'the', 'Empire', 'musichall', 'Lenehan', 'showed', 'M', 'Coy', 'how', 'the', 'whole', 'thing', 'was', '.']    317.7306501114072
+['Under', 'what', 'guidance', ',', 'following', 'what', 'signs', '?']    712.8792434887491
+['Did', 'he', 'attribute', 'this', 'homonymity', 'to', 'information', 'or', 'coincidence', 'or', 'intuition', '?']    4572.1224413983045
+['Palestrina', 'for', 'example', 'too', '.']    151.90371934725403
+['For', 'the', 'rest', 'let', 'look', 'who', 'will', '.']    335.3527021280983
+['Shylock', 'chimes', 'with', 'the', 'jewbaiting', 'that', 'followed', 'the', 'hanging', 'and', 'quartering', 'of', 'the', 'queen', 's', 'leech', 'Lopez', ',', 'his', 'jew', 's', 'heart', 'being', 'plucked', 'forth', 'while', 'the', 'sheeny', 'was', 'yet', 'alive', ':', '_Hamlet_', 'and', '_Macbeth_', 'with', 'the', 'coming', 'to', 'the', 'throne', 'of', 'a', 'Scotch', 'philosophaster', 'with', 'a', 'turn', 'for', 'witchroasting', '.']    1197.0852606900341
+['I', 'love', 'old', 'Bennett', '.']    221.93930904246997
+['After', 'him', 'toddles', 'an', 'obese', 'grandfather', 'rat', 'on', 'fungus', 'turtle', 'paws', 'under', 'a', 'grey', 'carapace', '.']    2854.841320153037
+['The', 'superior', ',', 'the', 'very', 'reverend', 'John', 'Conmee', 'S', '.']    762.2523743676002
+['on', 'the', 'morning', 'of', '<NUMBER>', 'June', '<NUMBER>', 'at', 'the', 'medical', 'hall', 'of', 'Francis', 'Dennehy', ',', '<NUMBER>', 'Church', 'street', ',', 'Ennis', 'after', 'having', ',', 'though', 'not', 'in', 'consequence', 'of', 'having', ',', 'purchased', 'at', '<NUMBER>', '.']    1075.0491431792016
+['He', '.']    38.085703692535795
+['Come', '.']    42.33036358498374
+['He', 'doesn', 't', 'chat', '.']    115.24523395616504
+['Jesus', ',', 'Mr', 'Doyle', '.']    59.05036945486732
+['Was', 'it', 'the', 'little', 'nuns', 'taught', 'you', 'to', 'be', 'so', 'saucy', '?']    63.26580264057761
+['They', 'gazed', 'curiously', 'an', 'instant', 'and', 'turned', 'quickly', 'towards', 'a', 'Dalkey', 'tram', '.']    627.0044541204244
+['I', 'just', 'want', 'to', 'phone', 'about', 'an', 'ad', '.']    75.36703736497611
+['By', 'the', 'listener', 'a', 'limitation', 'of', 'fertility', 'inasmuch', 'as', 'marriage', 'had', 'been', 'celebrated', '<NUMBER>', 'calendar', 'month', 'after', 'the', '18th', 'anniversary', 'of', 'her', 'birth', '<NUMBER>', 'September', '<NUMBER>', ',', 'viz', '.']    1399.2570729381184
+['An', 'hour', 'ago', 'I', 'was', 'passing', 'there', '.']    179.97313504727597
+['Where', 'old', 'Mrs', 'Riordan', 'died', '.']    37.76549164811213
+['He', 'thought', ',', 'but', 'not', 'for', 'long', ',', 'of', 'soldiers', 'and', 'sailors', ',', 'whose', 'legs', 'had', 'been', 'shot', 'off', 'by', 'cannonballs', ',', 'ending', 'their', 'days', 'in', 'some', 'pauper', 'ward', ',', 'and', 'of', 'cardinal', 'Wolsey', 's', 'words', ':', '_If', 'I', 'had', 'served', 'my', 'God', 'as', 'I', 'have', 'served', 'my', 'king', 'He', 'would', 'not', 'have', 'abandoned', 'me', 'in', 'my', 'old', 'days', '.']    111.41721272716096
+['Wellcut', 'frockcoat', '.']    113.2835365560183
+['And', 'the', 'sergeant', 'grinning', 'up', '.']    287.49483666437544
+['Clock', 'clacked', '.']    346.8700350943143
+['I', 'have', 'sinned', '!']    34.530144324356996
+['The', 'ghostcandle', 'to', 'light', 'her', 'agony', '.']    252.69249051535778
+['Hippogriff', '.']    20.783012474794592
+['On', 'this', 'knotty', 'point', 'however', 'the', 'views', 'of', 'the', 'pair', ',', 'poles', 'apart', 'as', 'they', 'were', 'both', 'in', 'schooling', 'and', 'everything', 'else', 'with', 'the', 'marked', 'difference', 'in', 'their', 'respective', 'ages', ',', 'clashed', '.']    214.83610331049923
+['Where', '?']    30.158388195296684
+['love', 's', 'young', 'dream', ',', 'the', 'darling', 'joys', 'of', 'sweet', 'buttonhooking', ',', 'to', 'lace', 'up', 'crisscrossed', 'to', 'kneelength', 'the', 'dressy', 'kid', 'footwear', 'satinlined', ',', 'so', 'incredibly', 'impossibly', 'small', ',', 'of', 'Clyde', 'Road', 'ladies', '.']    2961.2592641129027
+['It', 'never', 'comes', 'the', 'same', '.']    65.17785040468081
+['Who', 'has', 'the', 'most', 'matches', '?']    118.70737208583297
+['Yes', '.']    22.90510342424539
+['As', 'he', 'awaited', 'the', 'fatal', 'signal', 'he', 'tested', 'the', 'edge', 'of', 'his', 'horrible', 'weapon', 'by', 'honing', 'it', 'upon', 'his', 'brawny', 'forearm', 'or', 'decapitated', 'in', 'rapid', 'succession', 'a', 'flock', 'of', 'sheep', 'which', 'had', 'been', 'provided', 'by', 'the', 'admirers', 'of', 'his', 'fell', 'but', 'necessary', 'office', '.']    3335.6111836688306
+['Primrosevested', 'he', 'greeted', 'gaily', 'with', 'his', 'doffed', 'Panama', 'as', 'with', 'a', 'bauble', '.']    1043.1641583521982
+['Girl', 's', 'sweet', 'light', 'lips', '.']    846.0440242410228
+['Lip', 'blow', '.']    113.2835365560183
+['Always', 'someone', 'turns', 'up', 'you', 'never', 'dreamt', 'of', '.']    133.09570879170818
+['As', '?']    56.88005153204387
+['THE', 'KISSES', ':', '_', 'Warbling', '.']    146.9941641789104
+['A', 'warm', 'shock', 'of', 'air', 'heat', 'of', 'mustard', 'hanched', 'on', 'Mr', 'Bloom', 's', 'heart', '.']    658.5366368782417
+['sticks', 'out', 'a', 'flickering', 'phosphorescent', 'scorpion', 'tongue', ',', 'his', 'hand', 'on', 'his', 'fork', '.']    440.22852465222667
+['She', 'rubbed', 'her', 'handglass', 'briskly', 'on', 'her', 'woollen', 'vest', 'against', 'her', 'full', 'wagging', 'bub', '.']    1175.104177229071
+['Keep', 'him', 'on', 'hands', ':', 'might', 'take', 'a', 'turn', 'in', 'there', 'on', 'the', 'nod', '.']    144.86611698831464
+['ZOE', ':', 'Give', 'a', 'thing', 'and', 'take', 'it', 'back', 'God', 'll', 'ask', 'you', 'where', 'is', 'that', 'You', 'll', 'say', 'you', 'don', 't', 'know', 'God', 'll', 'send', 'you', 'down', 'below', '.']    58.014402006406776
+['She', 'put', 'the', 'first', 'nail', 'in', 'his', 'coffin', '.']    203.563772999082
+['How', 'beautiful', 'now', 'across', 'the', 'mist', 'of', 'years', '!']    112.28525037175545
+['But', ',', 'hush', '!']    54.670580188570746
+['Time', 'I', 'used', 'to', 'try', 'jotting', 'down', 'on', 'my', 'cuff', 'what', 'she', 'said', 'dressing', '.']    254.2828385593673
+['Where', 's', 'my', 'pipe', ',', 'by', 'the', 'way', '?']    201.63885375109072
+['abdominal', 'trauma', 'in', 'the', 'case', 'of', 'women', 'workers', 'subjected', 'to', 'heavy', 'labours', 'in', 'the', 'workshop', 'and', 'to', 'marital', 'discipline', 'in', 'the', 'home', 'but', 'by', 'far', 'the', 'vast', 'majority', 'to', 'neglect', ',', 'private', 'or', 'official', ',', 'culminating', 'in', 'the', 'exposure', 'of', 'newborn', 'infants', ',', 'the', 'practice', 'of', 'criminal', 'abortion', 'or', 'in', 'the', 'atrocious', 'crime', 'of', 'infanticide', '.']    2369.2342176464826
+['Horn', '.']    104.12594150280222
+['O', 'Brien', 'and', 'others', ',', 'the', 'agrarian', 'policy', 'of', 'Michael', 'Davitt', ',', 'the', 'constitutional', 'agitation', 'of', 'Charles', 'Stewart', 'Parnell', 'M', '.']    159.41613470247574
+['Dreadful', '.']    11.558321623806648
+['They', 'were', 'dabbling', 'in', 'the', 'sand', 'with', 'their', 'spades', 'and', 'buckets', ',', 'building', 'castles', 'as', 'children', 'do', ',', 'or', 'playing', 'with', 'their', 'big', 'coloured', 'ball', ',', 'happy', 'as', 'the', 'day', 'was', 'long', '.']    373.15571131235276
+['That', 'was', 'very', 'good', 'now', '.']    4.418620886571417
+['Filled', 'with', 'his', 'god', ',', 'he', 'thrones', ',', 'Buddh', 'under', 'plantain', '.']    145.3957736636502
+['Tom', 'Rochford', '.']    32.68979735667922
+['Broth', 'of', 'a', 'boy', '.']    551.4432021310463
+['Irish', 'nights', 'entertainment', '.']    212.90363036408706
+['Father', 'Cowley', 'blushed', 'to', 'his', 'brilliant', 'purply', 'lobes', '.']    297.09686129810336
+['Death', 'is', 'the', 'highest', 'form', 'of', 'life', '.']    55.43990354770812
+['Thanks', '.']    88.94682682750712
+['BLOOM', ':', 'What', '?']    130.6989351875143
+['Long', 'and', 'the', 'short', 'of', 'it', '.']    65.41347433956746
+['Softsoaping', '.']    20.783012474794592
+['Boom', 'pointed', 'it', 'out', 'to', 'his', 'companion', 'B', '.']    158.12458180687005
+['Fang', ',', 'I', 'feel', '.']    463.6735962450072
+['Don', 't', 'strike', 'him', 'when', 'he', 's', 'down', '!']    57.73205132587647
+['scootlootshoot', 'lumbering', 'by', '.']    350.86415240837715
+['Wonderful', 'inspiration', '!']    57.40906905276573
+['ZOE', 'AND', 'FLORRY', ':', '_', 'Laugh', 'together', '.']    398.7954165247038
+['Never', 'forgive', 'you', 'after', '.']    14.182123182471964
+['Miss', 'puny', 'little', 'Edy', 's', 'countenance', 'fell', 'to', 'no', 'slight', 'extent', 'and', 'Gerty', 'could', 'see', 'by', 'her', 'looking', 'as', 'black', 'as', 'thunder', 'that', 'she', 'was', 'simply', 'in', 'a', 'towering', 'rage', 'though', 'she', 'hid', 'it', ',', 'the', 'little', 'kinnatt', ',', 'because', 'that', 'shaft', 'had', 'struck', 'home', 'for', 'her', 'petty', 'jealousy', 'and', 'they', 'both', 'knew', 'that', 'she', 'was', 'something', 'aloof', ',', 'apart', ',', 'in', 'another', 'sphere', ',', 'that', 'she', 'was', 'not', 'of', 'them', 'and', 'never', 'would', 'be', 'and', 'there', 'was', 'somebody', 'else', 'too', 'that', 'knew', 'it', 'and', 'saw', 'it', 'so', 'they', 'could', 'put', 'that', 'in', 'their', 'pipe', 'and', 'smoke', 'it', '.']    95.54281212853752
+['The', 'swan', 'of', 'Avon', 'has', 'other', 'thoughts', '.']    459.5503510755238
+['A', 'wild', 'piece', 'of', 'goods', '.']    128.10334225356223
+['Here', 's', 'the', 'cops', '!']    48.78844521987342
+['Milly', 'too', '.']    43.314414810872385
+['How', 'are', 'all', 'your', 'charges', '?']    90.24237175189612
+['The', 'very', 'moment', '.']    68.28184566039539
+['ZOE', ':', '_', 'Catches', 'a', 'stray', 'hair', 'deftly', 'and', 'twists', 'it', 'to', 'her', 'coil', '.']    2109.943968237948
+['Yes', '.']    22.90510342424539
+['O', 'Molloy', 'who', 'placed', 'the', 'tissues', 'in', 'his', 'receiving', 'hands', '.']    205.82542508368266
+['I', 'say', 'so', '.']    8.037658485773285
+['THE', 'RECORDER', ':', 'I', 'will', 'put', 'an', 'end', 'to', 'this', 'white', 'slave', 'traffic', 'and', 'rid', 'Dublin', 'of', 'this', 'odious', 'pest', '.']    759.2339446978544
+['BLOOM', ':', '_', 'Halts', 'erect', ',', 'stung', 'by', 'a', 'spasm', '.']    248.6258649977172
+['Bloom', ',', 'parting', 'them', 'swiftly', ',', 'draws', 'his', 'caliph', 's', 'hood', 'and', 'poncho', 'and', 'hurries', 'down', 'the', 'steps', 'with', 'sideways', 'face', '.']    1338.3994339287758
+['Lawn', 'Tennyson', ',', 'gentleman', 'poet', '.']    261.8664558899819
+['The', 'shiny', 'links', ',', 'packed', 'with', 'forcemeat', ',', 'fed', 'his', 'gaze', 'and', 'he', 'breathed', 'in', 'tranquilly', 'the', 'lukewarm', 'breath', 'of', 'cooked', 'spicy', 'pigs', 'blood', '.']    1615.5746042134183
+['Two', 'kindling', 'faces', 'watched', 'her', 'bend', '.']    354.20761211402066
+['Morning', 'mouth', 'bad', 'images', '.']    710.765467645547
+['I', 'have', 'felt', 'this', 'instant', 'a', 'twinge', 'of', 'sciatica', 'in', 'my', 'left', 'glutear', 'muscle', '.']    399.7163340316698
+['piglings', ',', 'Conmee', 'on', 'Christass', ',', 'lame', 'crutch', 'and', 'leg', 'sailor', 'in', 'cockboat', 'armfolded', 'ropepulling', 'hitching', 'stamp', 'hornpipe', 'through', 'and', 'through', '.']    5201.357074412726
+['For', 'another', ':', 'a', 'constable', 'off', 'duty', 'cuddling', 'her', 'in', 'Eccles', 'Lane', '.']    322.7074633943148
+['Too', 'many', 'drugs', 'spoil', 'the', 'broth', '.']    380.7917642395651
+['in', 'attendance', '.']    39.90891352467602
+['Off', 'his', 'chump', '.']    194.07832805101017
+['No', 'drinks', 'served', 'before', 'mass', '.']    618.5737857093018
+['The', 'terrier', 'follows', ',', 'whining', 'piteously', ',', 'wagging', 'his', 'tail', '.']    541.7372307681912
+['THE', 'NYMPH', ':', '_', 'Sadly', '.']    135.58405377014563
+['Mr', 'Bloom', 'inserted', 'his', 'nose', '.']    46.57418635000029
+['Down', 'there', 'Emmet', 'was', 'hanged', ',', 'drawn', 'and', 'quartered', '.']    574.3816793283486
+['Mercy', 'on', 'the', 'luckless', '!']    137.5411819278751
+['Really', 'he', 'was', '.']    152.6281177744707
+['And', 'at', 'the', 'sound', 'of', 'the', 'sacring', 'bell', ',', 'headed', 'by', 'a', 'crucifer', 'with', 'acolytes', ',', 'thurifers', ',', 'boatbearers', ',', 'readers', ',', 'ostiarii', ',', 'deacons', 'and', 'subdeacons', ',', 'the', 'blessed', 'company', 'drew', 'nigh', 'of', 'mitred', 'abbots', 'and', 'priors', 'and', 'guardians', 'and', 'monks', 'and', 'friars', ':', 'the', 'monks', 'of', 'Benedict', 'of', 'Spoleto', ',', 'Carthusians', 'and', 'Camaldolesi', ',', 'Cistercians', 'and', 'Olivetans', ',', 'Oratorians', 'and', 'Vallombrosans', ',', 'and', 'the', 'friars', 'of', 'Augustine', ',', 'Brigittines', ',', 'Premonstratensians', ',', 'Servi', ',', 'Trinitarians', ',', 'and', 'the', 'children', 'of', 'Peter', 'Nolasco', ':', 'and', 'therewith', 'from', 'Carmel', 'mount', 'the', 'children', 'of', 'Elijah', 'prophet', 'led', 'by', 'Albert', 'bishop', 'and', 'by', 'Teresa', 'of', 'Avila', ',', 'calced', 'and', 'other', ':', 'and', 'friars', ',', 'brown', 'and', 'grey', ',', 'sons', 'of', 'poor', 'Francis', ',', 'capuchins', ',', 'cordeliers', ',', 'minimes', 'and', 'observants', 'and', 'the', 'daughters', 'of', 'Clara', ':', 'and', 'the', 'sons', 'of', 'Dominic', ',', 'the', 'friars', 'preachers', ',', 'and', 'the', 'sons', 'of', 'Vincent', ':', 'and', 'the', 'monks', 'of', 'S', '.']    18.442627085855346
+['The', 'scrotumtightening', 'sea', '.']    86.54069196223229
+['There', 'he', 'is', 'again', ',', 'says', 'Joe', '.']    47.52198346706856
+['CLEVER', ',', 'VERY', 'Clever', ',', 'Lenehan', 'said', '.']    2144.9866268443634
+['Then', 'it', 'fetched', 'up', 'three', 'coins', 'from', 'his', 'trousers', 'pocket', 'and', 'laid', 'them', 'on', 'the', 'rubber', 'prickles', '.']    371.23503864675666
+['Cissy', 'wiped', 'his', 'little', 'mouth', 'with', 'the', 'dribbling', 'bib', 'and', 'wanted', 'him', 'to', 'sit', 'up', 'properly', 'and', 'say', 'pa', 'pa', 'pa', 'but', 'when', 'she', 'undid', 'the', 'strap', 'she', 'cried', 'out', ',', 'holy', 'saint', 'Denis', ',', 'that', 'he', 'was', 'possing', 'wet', 'and', 'to', 'double', 'the', 'half', 'blanket', 'the', 'other', 'way', 'under', 'him', '.']    226.73025208343265
+['Keep', 'him', 'off', 'the', 'boose', ',', 'see', '?']    46.350431521152466
+['Mrs', 'Marion', '.']    138.77245726708261
+['I', 'was', 'at', '_Leah_', ',', 'Mrs', 'Bandmann', 'Palmer', '.']    794.3455701278403
+['She', 'half', 'smiled', 'at', 'him', 'wanly', ',', 'a', 'sweet', 'forgiving', 'smile', ',', 'a', 'smile', 'that', 'verged', 'on', 'tears', ',', 'and', 'then', 'they', 'parted', '.']    326.0061636458057
+['I', 'hold', 'no', 'brief', ',', 'as', 'at', 'present', 'advised', ',', 'for', 'the', 'third', 'profession', '_qua_', 'profession', 'but', 'your', 'Cork', 'legs', 'are', 'running', 'away', 'with', 'you', '.']    1510.2758355003516
+['I', 'am', 'other', 'I', 'now', '.']    63.010194438730096
+['More', 'interesting', 'if', 'you', 'understood', 'what', 'it', 'was', 'all', 'about', '.']    272.88741835963486
+['In', 'the', 'bright', 'silent', 'instant', 'Stephen', 'saw', 'his', 'own', 'image', 'in', 'cheap', 'dusty', 'mourning', 'between', 'their', 'gay', 'attires', '.']    702.9286770699566
+['Tansy', 'and', 'pennyroyal', '.']    350.86415240837715
+['He', 'threw', 'it', '.']    52.15587808317355
+['Curious', 'longing', 'I', '.']    205.25084626852288
+['You', 'll', 'be', 'taught', 'the', 'error', 'of', 'your', 'ways', '.']    806.1679874774509
+['Greater', 'love', 'than', 'this', ',', 'he', 'said', ',', 'no', 'man', 'hath', 'that', 'a', 'man', 'lay', 'down', 'his', 'wife', 'for', 'his', 'friend', '.']    310.3556038417434
+['Those', 'Cinghalese', 'lobbing', 'about', 'in', 'the', 'sun', 'in', '_dolce', 'far', 'niente_', ',', 'not', 'doing', 'a', 'hand', 's', 'turn', 'all', 'day', '.']    379.37868546733955
+['In', 'the', 'years', 'when', 'he', 'was', 'living', 'richly', 'in', 'royal', 'London', 'to', 'pay', 'a', 'debt', 'she', 'had', 'to', 'borrow', 'forty', 'shillings', 'from', 'her', 'father', 's', 'shepherd', '.']    463.26914562305694
+['Heave', 'to', '.']    113.2835365560183
+['By', 'God', ',', 'she', 'had', 'Bloom', 'cornered', '.']    281.2492954727455
+['The', 'Glencree', 'dinner', '.']    12.702565729970038
+['Hyacinth', 'perfume', 'made', 'of', 'oil', 'of', 'ether', 'or', 'something', '.']    1866.2970864120675
+['Faithful', 'departed', '.']    113.2835365560183
+['The', 'bedside', 'manner', 'it', 'is', 'that', 'they', 'use', 'in', 'the', 'Mater', 'hospice', '.']    108.93283908757101
+['Read', 'the', 'Priest', ',', 'the', 'Woman', 'and', 'the', 'Confessional', '.']    83.04464616942226
+['Wrote', 'it', 'for', 'a', 'lark', 'in', 'the', 'Scotch', 'house', 'I', 'bet', 'anything', '.']    326.8543703636222
+['No', 'sidesaddle', 'or', 'pillion', 'for', 'her', ',', 'not', 'for', 'Joe', '.']    614.2601728430269
+['You', 'know', 'Manningham', 's', 'story', 'of', 'the', 'burgher', 's', 'wife', 'who', 'bade', 'Dick', 'Burbage', 'to', 'her', 'bed', 'after', 'she', 'had', 'seen', 'him', 'in', '_Richard', 'III_', 'and', 'how', 'Shakespeare', ',', 'overhearing', ',', 'without', 'more', 'ado', 'about', 'nothing', ',', 'took', 'the', 'cow', 'by', 'the', 'horns', 'and', ',', 'when', 'Burbage', 'came', 'knocking', 'at', 'the', 'gate', ',', 'answered', 'from', 'the', 'capon', 's', 'blankets', ':', '_William', 'the', 'conqueror', 'came', 'before', 'Richard', 'III_', '.']    719.6856730011526
+['Mr', 'Bloom', 'unclasped', 'his', 'hands', 'in', 'a', 'gesture', 'of', 'soft', 'politeness', 'and', 'clasped', 'them', '.']    182.60454749265054
+['lovesongs', '.']    20.783012474794592
+['He', 'was', 'eying', 'her', 'as', 'a', 'snake', 'eyes', 'its', 'prey', '.']    439.68963486815056
+['The', 'oldest', 'people', '.']    86.54069196223229
+['At', 'his', 'armpit', 'Bantam', 'Lyons', 'voice', 'and', 'hand', 'said', ':', 'Hello', ',', 'Bloom', '.']    170.68700541112324
+['of', 'electricity', '.']    46.0055754541002
+['All', 'right', 'till', 'I', 'come', 'back', 'anyhow', '.']    16.237438014037338
+['Shut', 'his', 'blurry', 'Dutch', 'oven', 'with', 'a', 'firm', 'hand', '.']    240.24523741570744
+['Bold', 'hand', ':', 'Mrs', 'Marion', '.']    152.10163903562338
+['Two', 'and', 'nine', ',', 'sir', '.']    256.9352999658811
+['Eyes', 'shut', '.']    57.40928604344897
+['Hanging', 'on', 'to', 'a', 'plank', 'or', 'astride', 'of', 'a', 'beam', 'for', 'grim', 'life', ',', 'lifebelt', 'round', 'him', ',', 'gulping', 'salt', 'water', ',', 'and', 'that', 's', 'the', 'last', 'of', 'his', 'nibs', 'till', 'the', 'sharks', 'catch', 'hold', 'of', 'him', '.']    1154.9696618709327
+['Paragoric', 'poppysyrup', 'bad', 'for', 'cough', '.']    341.8664321721
+['No', 'browbeating', 'him', '.']    113.55040346555161
+['Good', 'system', 'for', 'criminals', '.']    354.8318689539718
+['Yes', ',', 'all', 'right', '.']    14.595357313916848
+['A', 'pigmy', 'woman', 'swings', 'on', 'a', 'rope', 'slung', 'between', 'two', 'railings', ',', 'counting', '.']    201.2924946600009
+['The', 'benign', 'forehead', 'of', 'the', 'quaker', 'librarian', 'enkindled', 'rosily', 'with', 'hope', '.']    146.92967098898708
+['THE', 'CALLS', ':', 'Wait', ',', 'my', 'love', ',', 'and', 'I', 'll', 'be', 'with', 'you', '.']    121.17666688010979
+['Who', 'll', 'dance', '?']    96.38442100034678
+['LYDIA', 'DOUCE', ':', '_', 'Her', 'mouth', 'opening', '.']    225.8250486150619
+['His', 'ides', 'of', 'March', 'or', 'June', '.']    299.13400486304283
+['Then', ',', 'unable', 'to', 'repress', 'his', 'merriment', ',', 'he', 'rocks', 'to', 'and', 'fro', ',', 'arms', 'akimbo', ',', 'and', 'sings', 'with', 'broad', 'rollicking', 'humour', ':', '_', 'O', ',', 'the', 'poor', 'little', 'fellow', 'Hihihihihis', 'legs', 'they', 'were', 'yellow', 'He', 'was', 'plump', ',', 'fat', 'and', 'heavy', 'and', 'brisk', 'as', 'a', 'snake', 'But', 'some', 'bloody', 'savage', 'To', 'graize', 'his', 'white', 'cabbage', 'He', 'murdered', 'Nell', 'Flaherty', 's', 'duckloving', 'drake', '.']    966.2168943241256
+['It', 'ruined', 'many', 'a', 'man', ',', 'the', 'same', 'horses', '.']    348.4437030394038
+['MRS', 'BREEN', ':', '_', 'Her', 'pulpy', 'tongue', 'between', 'her', 'lips', ',', 'offers', 'a', 'pigeon', 'kiss', '.']    340.146458504169
+['At', 'last', 'she', 'spotted', 'a', 'weeny', 'weeshy', 'one', 'miles', 'away', '.']    767.9395599119434
+['brightly', '.']    20.783012474794592
+['BLOOM', ':', 'When', 'my', 'progenitor', 'of', 'sainted', 'memory', 'wore', 'the', 'uniform', 'of', 'the', 'Austrian', 'despot', 'in', 'a', 'dank', 'prison', 'where', 'was', 'yours', '?']    2236.17507028591
+['Must', 'have', 'put', 'it', 'back', 'on', 'the', 'peg', '.']    19.28722282562298
+['Treats', 'him', 'with', 'scorn', '.']    151.91504632442002
+['If', 'I', 'fell', 'over', 'a', 'cliff', 'that', 'beetles', 'o', 'er', 'his', 'base', ',', 'fell', 'through', 'the', '_nebeneinander_', 'ineluctably', '!']    235.6320685145911
+['Piano', 'downstairs', '.']    79.26729700140429
+['Today', 'it', 'is', '.']    99.5930109596651
+['What', 'matter', '?']    25.891882446231964
+['The', 'second', 'in', 'the', 'coffeeroom', 'of', 'Breslin', 's', 'hotel', 'on', 'a', 'rainy', 'Sunday', 'in', 'the', 'January', 'of', '<NUMBER>', ',', 'in', 'the', 'company', 'of', 'Stephen', 's', 'father', 'and', 'Stephen', 's', 'granduncle', ',', 'Stephen', 'being', 'then', '<NUMBER>', 'years', 'older', '.']    474.2978515180055
+['Picking', 'up', 'the', 'letters', '.']    497.66922383930233
+['Wavewhite', 'wedded', 'words', 'shimmering', 'on', 'the', 'dim', 'tide', '.']    565.621838747708
+['Not', 'that', 'I', 'heard', 'of', '.']    34.55510485386072
+['leaf', '.']    20.783012474794592
+['The', 'flutter', 'of', 'his', 'breath', 'came', 'forth', 'in', 'short', 'sighs', '.']    46.08944062778528
+['I', 'will', 'return', '.']    47.859912990217055
+['STEPHEN', ':', 'I', 'seem', 'to', 'annoy', 'them', '.']    93.43929773475571
+['Here', 'also', 'over', 'these', 'craven', 'hearts', 'his', 'shadow', 'lies', 'and', 'on', 'the', 'scoffer', 's', 'heart', 'and', 'lips', 'and', 'on', 'mine', '.']    734.1383876737924
+['Dislike', 'that', 'job', '.']    176.21391782351589
+['She', 'swallowed', 'a', 'draught', 'of', 'tea', 'from', 'her', 'cup', 'held', 'by', 'nothandle', 'and', ',', 'having', 'wiped', 'her', 'fingertips', 'smartly', 'on', 'the', 'blanket', ',', 'began', 'to', 'search', 'the', 'text', 'with', 'the', 'hairpin', 'till', 'she', 'reached', 'the', 'word', '.']    403.4380105807578
+['Mr', 'Bloom', 's', 'eye', 'followed', 'its', 'line', 'and', 'saw', 'again', 'the', 'dyeworks', 'van', 'drawn', 'up', 'before', 'Drago', 's', '.']    60.649298142051585
+['He', 'jumped', 'up', 'and', 'snatched', 'the', 'card', '.']    35.87932993200905
+['Thousands', 'every', 'hour', '.']    350.86415240837715
+['The', 'sentimentalist', 'is', 'he', 'who', 'would', 'enjoy', 'without', 'incurring', 'the', 'immense', 'debtorship', 'for', 'a', 'thing', 'done', '.']    6037.839488508091
+['Tight', ',', 'dear', '.']    158.11345381786717
+['Just', 'close', 'my', 'eyes', 'a', 'moment', '.']    55.97069182009662
+['What', 'do', 'you', 'think', 'of', 'that', ',', 'citizen', '?']    1330.1685788728387
+['The', 'Foundation', "'", 's', 'EIN', 'or', 'federal', 'tax', 'identification', 'number', 'is', '<NUMBER>', '<NUMBER>', '.']    2207.3503703549404
+['a', 'nice', 'snug', 'and', 'cosy', 'little', 'homely', 'house', ',', 'every', 'morning', 'they', 'would', 'both', 'have', 'brekky', ',', 'simple', 'but', 'perfectly', 'served', ',', 'for', 'their', 'own', 'two', 'selves', 'and', 'before', 'he', 'went', 'out', 'to', 'business', 'he', 'would', 'give', 'his', 'dear', 'little', 'wifey', 'a', 'good', 'hearty', 'hug', 'and', 'gaze', 'for', 'a', 'moment', 'deep', 'down', 'into', 'her', 'eyes', '.']    375.2539614508705
+['In', 'here', '.']    25.4948070249496
+['Why', 'do', 'they', 'call', 'that', 'thing', 'they', 'gave', 'me', 'nutsteak', '?']    84.48031731784674
+['By', 'the', 'hoky', 'fiddle', ',', 'thanks', 'be', 'to', 'Jesus', 'those', 'funny', 'little', 'chaps', 'are', 'not', 'unanimous', '.']    1567.8168494939143
+['Christmas', 'turkeys', 'and', 'geese', '.']    710.765467645547
+['No', '.']    18.929737033219993
+['Bow', 'to', 'the', 'inevitable', '.']    26.54562312971462
+['He', 'wails', 'with', 'the', 'vehemence', 'of', 'the', 'ocean', '.']    92.98603646784518
+['And', 'smiled', 'yet', 'again', ',', 'in', 'going', '.']    49.61158780691453
+['That', 's', 'press', '.']    42.249969832728304
+['BELLO', ':', '_', 'Imperiously', '.']    91.92674835451277
+['From', 'the', 'top', 'spur', 'he', 'slides', 'down', '.']    122.38763960405186
+['Saluting', 'Ned', 'Lambert', 'and', 'John', 'Henry', 'Menton', 'he', 'walked', 'on', 'at', 'Martin', 'Cunningham', 's', 'side', 'puzzling', 'two', 'long', 'keys', 'at', 'his', 'back', '.']    111.2860200413309
+['Mr', 'Bloom', 'came', 'last', 'folding', 'his', 'paper', 'again', 'into', 'his', 'pocket', '.']    425.29037262877534
+['Open', 'Sesame', '!']    57.40928604344897
+['Or', 'through', 'M', 'Coy', '.']    249.22869248473148
+['Bottle', 'of', 'lager', '.']    311.6597415290216
+['Then', 'walking', 'slowly', 'forward', 'he', 'read', 'the', 'letter', 'again', ',', 'murmuring', 'here', 'and', 'there', 'a', 'word', '.']    195.83727421150826
+['Handsome', 'is', 'and', 'handsome', 'does', '.']    273.4852194879478
+['Lazy', 'idle', 'little', 'schemer', '.']    2452.349354698171
+['The', 'door', 'closed', 'behind', 'the', 'outgoer', '.']    163.3346028810934
+['Those', 'mornings', 'in', 'the', 'cattlemarket', ',', 'the', 'beasts', 'lowing', 'in', 'their', 'pens', ',', 'branded', 'sheep', ',', 'flop', 'and', 'fall', 'of', 'dung', ',', 'the', 'breeders', 'in', 'hobnailed', 'boots', 'trudging', 'through', 'the', 'litter', ',', 'slapping', 'a', 'palm', 'on', 'a', 'ripemeated', 'hindquarter', ',', 'there', 's', 'a', 'prime', 'one', ',', 'unpeeled', 'switches', 'in', 'their', 'hands', '.']    2471.217587370728
+['I', 'hope', 'you', 'll', 'be', 'able', 'to', 'come', 'tonight', '.']    86.47543780958604
+['Lenehan', 'came', 'forward', '.']    3.292603448050147
+['O', 'Bloom', ',', 'the', 'son', 'of', 'Rory', ':', 'it', 'is', 'he', '.']    611.6930978820521
+['Heart', '.']    132.29416791983886
+['Mirthless', 'high', 'malicious', 'laughter', '.']    786.743978419202
+['Bloom', 'stops', ',', 'at', 'fault', '.']    147.44487540713052
+['Jokes', 'old', 'stale', 'now', '.']    786.743978419202
+['The', 'car', 'jingles', 'tooraloom', 'round', 'the', 'corner', 'of', 'the', 'tooraloom', 'lane', '.']    938.5519511744241
+['Silence', ',', 'all', '.']    210.81043432348372
+['the', 'consulship', 'of', 'Diplodocus', 'and', 'Ichthyosauros', '.']    1183.1021299031047
+['The', 'dwarf', 'acolytes', ',', 'giggling', ',', 'peeping', ',', 'nudging', ',', 'ogling', ',', 'Easterkissing', ',', 'zigzag', 'behind', 'him', '.']    1839.815877672406
+['Gee', '!']    20.783012474794592
+['Mr', 'Staylewit', 'Buncombe', '.']    108.8780862244856
+['latitude', ',', 'N', '.']    311.6597415290216
+['Vitality', '.']    20.783012474794592
+['the', 'dark', 'said', 'for', 'the', 'benefit', 'of', 'them', 'all', '.']    248.00374737925532
+['The', 'visible', 'signs', 'of', 'antesatisfaction', '?']    386.48925956575596
+['and', 'T', '.']    301.0331431859224
+['He', 'passed', 'a', 'blind', 'stripling', 'opposite', 'Broadbent', 's', '.']    162.3039317634913
+['Stephen', ',', 'in', 'reply', 'to', 'a', 'politely', 'put', 'query', ',', 'said', 'he', 'didn', 't', 'sing', 'it', 'but', 'launched', 'out', 'into', 'praises', 'of', 'Shakespeare', 's', 'songs', ',', 'at', 'least', 'of', 'in', 'or', 'about', 'that', 'period', ',', 'the', 'lutenist', 'Dowland', 'who', 'lived', 'in', 'Fetter', 'lane', 'near', 'Gerard', 'the', 'herbalist', ',', 'who', '_anno', 'ludendo', 'hausi', ',', 'Doulandus_', ',', 'an', 'instrument', 'he', 'was', 'contemplating', 'purchasing', 'from', 'Mr', 'Arnold', 'Dolmetsch', ',', 'whom', 'B', '.']    655.9963281082895
+['Thanks', 'to', 'the', 'Little', 'Flower', '.']    49.79918253625685
+['BLOOM', ':', '_', 'Fascinated', '.']    39.05119853790714
+['Also', 'the', 'day', 'I', 'threw', 'that', 'stale', 'cake', 'out', 'of', 'the', 'Erin', 's', 'King', 'picked', 'it', 'up', 'in', 'the', 'wake', 'fifty', 'yards', 'astern', '.']    435.45279411822696
+['THE', 'HONOURABLE', 'MRS', 'MERVYN', 'TALBOYS', ':', 'Very', 'much', 'so', '!']    1084.8139862429907
+['Street', 'of', 'harlots', 'after', '.']    337.8269241209248
+['You', 'll', 'look', 'spiffing', 'in', 'them', '.']    182.1225475573721
+['Francis', 'was', 'reminding', 'Stephen', 'of', 'years', 'before', 'when', 'they', 'had', 'been', 'at', 'school', 'together', 'in', 'Conmee', 's', 'time', '.']    594.8073785683599
+['Myles', 'Crawford', 'blew', 'his', 'first', 'puff', 'violently', 'towards', 'the', 'ceiling', '.']    644.8822235056409
+['Her', 'widow', 's', 'mite', '.']    65.38415995197431
+['As', 'they', 'trod', 'across', 'the', 'thick', 'carpet', 'Buck', 'Mulligan', 'whispered', 'behind', 'his', 'Panama', 'to', 'Haines', ':', 'Parnell', 's', 'brother', '.']    196.40554016150662
+['Mr', 'Power', 's', 'choked', 'laugh', 'burst', 'quietly', 'in', 'the', 'carriage', '.']    905.9563905758063
+['Yashmak', '.']    20.783012474794592
+['What', 'celestial', 'sign', 'was', 'by', 'both', 'simultaneously', 'observed', '?']    288.7578129646466
+['Christian', 'brother', 'boys', '.']    350.86415240837715
+['He', 'lifts', 'a', 'mooncalf', 'nozzle', 'and', 'howls', '.']    1356.14359728179
+['Then', 'saw', 'like', 'yellow', 'streaks', 'on', 'his', 'face', '.']    1443.1958396359694
+['Stephen', 'asked', 'her', '.']    51.57210375844597
+['in', 'the', 'seawind', 'simply', 'swirling', ',', 'breaks', 'from', 'the', 'arms', 'of', 'her', 'lover', 'and', 'calls', ',', 'her', 'young', 'eyes', 'wonderwide', '.']    95.4285191862973
+['polisher', 'of', 'Italian', 'scandals', '.']    151.89780654673766
+['Meretricious', 'finery', 'to', 'deceive', 'the', 'eye', '.']    1779.0526734178027
+['Vel', ',', 'I', 'ses', ',', 'if', 'that', 'aint', 'a', 'sheeny', 'nachez', ',', 'vel', ',', 'I', 'vil', 'get', 'misha', 'mishinnah', '.']    1564.711871200987
+['appears', 'among', 'the', 'bystanders', '.']    123.98453083812656
+['So', 'he', 'went', 'over', 'to', 'the', 'biscuit', 'tin', 'Bob', 'Doran', 'left', 'to', 'see', 'if', 'there', 'was', 'anything', 'he', 'could', 'lift', 'on', 'the', 'nod', ',', 'the', 'old', 'cur', 'after', 'him', 'backing', 'his', 'luck', 'with', 'his', 'mangy', 'snout', 'up', '.']    175.24619895870458
+['living', 'in', 'the', 'same', 'place', 'for', 'the', 'past', 'five', 'years', '.']    563.4827304614707
+['Rather', 'stale', 'smell', 'that', 'incense', 'leaves', 'next', 'day', '.']    3270.239507260617
+['laughs', ',', 'shaking', 'his', 'head', '.']    166.78095880227463
+['Hm', '.']    67.56850363315905
+['O', 'yes', ',', 'every', 'time', '.']    17.689748406224577
+['It', 'was', 'in', 'the', 'corresponding', 'pocket', 'of', 'the', 'trousers', 'which', 'he', 'had', 'worn', 'on', 'the', 'day', 'but', 'one', 'preceding', '.']    480.85283695549094
+['Touch', 'and', 'go', 'with', 'him', '.']    114.09769217849991
+['Relics', 'of', 'old', 'decency', '.']    151.90351714330404
+['Flutier', '.']    20.783012474794592
+['Meet', 'one', 'Sunday', 'after', 'the', 'rosary', '.']    1683.6311496632288
+['BLOOM', ':', '_', 'Behind', 'his', 'hand', '.']    124.98639543895051
+['The', 'ladies', 'from', 'their', 'balconies', 'throw', 'down', 'rosepetals', '.']    749.6516930666419
+['That', 'one', 'day', 'he', 'will', 'come', 'again', '.']    36.37784035648837
+['His', 'downcast', 'eyes', 'followed', 'the', 'silent', 'veining', 'of', 'the', 'oaken', 'slab', '.']    192.81423413347503
+['But', ',', 'begob', ',', 'Joe', 'was', 'equal', 'to', 'the', 'occasion', '.']    65.76319192297322
+['she', 'said', 'with', 'a', 'pert', 'toss', 'of', 'her', 'head', 'and', 'a', 'piquant', 'tilt', 'of', 'her', 'nose', '.']    439.1012661224131
+['BLOOM', ':', '_', 'Urgently', '.']    39.05119853790714
+['Have', 'birds', 'no', 'smell', '?']    73.45940024163966
+['Stopperrobber', '!']    20.783012474794592
+['He', 'turned', 'a', 'happy', 'patch', 's', 'smirk', 'to', 'Stephen', ',', 'saying', ':', 'The', 'disguise', ',', 'I', 'fear', ',', 'is', 'thin', '.']    451.63259766957674
+['Monks', 'of', 'the', 'screw', '.']    152.78796510236057
+['poniard', 'and', ',', 'clad', 'in', 'the', 'sheathmail', 'of', 'an', 'elected', 'knight', 'of', 'nine', ',', 'strikes', 'at', 'his', 'loins', '.']    131.74608467253233
+['for', 'a', 'gallus', 'potion', 'would', 'rouse', 'a', 'friar', ',', 'I', 'm', 'thinking', ',', 'and', 'he', 'limp', 'with', 'leching', '.']    2102.733426803671
+['A', 'bird', 'sat', 'tamely', 'perched', 'on', 'a', 'poplar', 'branch', '.']    451.95974912010394
+['O', ',', 'yes', ':', 'a', 'very', 'great', 'success', '.']    283.10521854090797
+['Dignam', 'used', 'to', 'be', 'in', 'his', 'office', '.']    89.70056776849738
+['And', 'yonder', 'about', 'that', 'grey', 'urn', 'where', 'the', 'water', 'moves', 'at', 'times', 'in', 'thoughtful', 'irrigation', 'you', 'saw', 'another', 'as', 'fragrant', 'sisterhood', ',', 'Floey', ',', 'Atty', ',', 'Tiny', 'and', 'their', 'darker', 'friend', 'with', 'I', 'know', 'not', 'what', 'of', 'arresting', 'in', 'her', 'pose', 'then', ',', 'Our', 'Lady', 'of', 'the', 'Cherries', ',', 'a', 'comely', 'brace', 'of', 'them', 'pendent', 'from', 'an', 'ear', ',', 'bringing', 'out', 'the', 'foreign', 'warmth', 'of', 'the', 'skin', 'so', 'daintily', 'against', 'the', 'cool', 'ardent', 'fruit', '.']    395.73330070046364
+['From', 'maturity', 'to', 'senility', 'he', 'would', 'increasingly', 'resemble', 'his', 'paternal', 'procreator', '.']    1147.0759336895946
+['Far', 'away', 'in', 'the', 'west', 'the', 'sun', 'was', 'setting', 'and', 'the', 'last', 'glow', 'of', 'all', 'too', 'fleeting', 'day', 'lingered', 'lovingly', 'on', 'sea', 'and', 'strand', ',', 'on', 'the', 'proud', 'promontory', 'of', 'dear', 'old', 'Howth', 'guarding', 'as', 'ever', 'the', 'waters', 'of', 'the', 'bay', ',', 'on', 'the', 'weedgrown', 'rocks', 'along', 'Sandymount', 'shore', 'and', ',', 'last', 'but', 'not', 'least', ',', 'on', 'the', 'quiet', 'church', 'whence', 'there', 'streamed', 'forth', 'at', 'times', 'upon', 'the', 'stillness', 'the', 'voice', 'of', 'prayer', 'to', 'her', 'who', 'is', 'in', 'her', 'pure', 'radiance', 'a', 'beacon', 'ever', 'to', 'the', 'stormtossed', 'heart', 'of', 'man', ',', 'Mary', ',', 'star', 'of', 'the', 'sea', '.']    100.00000000000004
+['My', 'old', 'chief', 'Joe', 'Cuffe', '.']    162.406668156563
+['Does', 'no', 'harm', '.']    152.4265102195167
+['Power', 'for', 'Richie', '.']    260.56155627780566
+['head', '.']    17.39887064294224
+['Almost', 'taste', 'them', 'by', 'looking', '.']    273.48800328870107
+['He', 'sat', 'down', ',', 'cut', 'and', 'buttered', 'a', 'slice', 'of', 'the', 'loaf', '.']    172.48597848180964
+['Father', 'Conmee', 'liked', 'cheerful', 'decorum', '.']    401.08831432699003
+['Gerty', 'wished', 'to', 'goodness', 'they', 'would', 'take', 'their', 'squalling', 'baby', 'home', 'out', 'of', 'that', 'and', 'not', 'get', 'on', 'her', 'nerves', ',', 'no', 'hour', 'to', 'be', 'out', ',', 'and', 'the', 'little', 'brats', 'of', 'twins', '.']    255.74766343475432
+['He', 's', 'off', '.']    4.928453747338489
+['They', 'came', 'down', 'the', 'steps', 'from', 'Leahy', 's', 'terrace', 'prudently', ',', '_Frauenzimmer_', ':', 'and', 'down', 'the', 'shelving', 'shore', 'flabbily', ',', 'their', 'splayed', 'feet', 'sinking', 'in', 'the', 'silted', 'sand', '.']    1115.2423829422885
+['Handel', '.']    20.783012474794592
+['What', 's', 'that', ',', 'Mr', 'O', 'Rourke', '?']    185.1261223853901
+['Wouldn', 't', 'trouble', 'only', 'I', 'was', 'expecting', 'some', 'money', '.']    163.6341536172554
+['Mortal', '!']    20.783012474794592
+['Eh', '?']    57.17757451468994
+['Because', 'some', 'years', 'previously', 'in', '<NUMBER>', 'when', 'occupied', 'with', 'the', 'problem', 'of', 'the', 'quadrature', 'of', 'the', 'circle', 'he', 'had', 'learned', 'of', 'the', 'existence', 'of', 'a', 'number', 'computed', 'to', 'a', 'relative', 'degree', 'of', 'accuracy', 'to', 'be', 'of', 'such', 'magnitude', 'and', 'of', 'so', 'many', 'places', ',', 'e', '.']    901.8321792631946
+['A', 'stout', 'lady', 'stopped', ',', 'took', 'a', 'copper', 'coin', 'from', 'her', 'purse', 'and', 'dropped', 'it', 'into', 'the', 'cap', 'held', 'out', 'to', 'her', '.']    785.552228071398
+['This', 'poor', 'hardworking', 'man', '!']    71.39583830220809
+['Tramp', ',', 'tramp', ',', 'tramp', ',', 'the', 'boys', 'are', 'attitudes', '!']    213.36653998078773
+['He', 'has', 'that', 'cabman', 's', 'shelter', ',', 'they', 'say', ',', 'down', 'there', 'at', 'Butt', 'bridge', '.']    73.16643709277068
+['Mr', 'Best', 'turned', 'to', 'him', '.']    203.07844036597746
+['His', 'spindlelegs', 'and', 'sparrow', 'feet', 'are', 'those', 'of', 'the', 'tenor', 'Mario', ',', 'prince', 'of', 'Candia', '.']    652.6331630850752
+['They', 'turned', 'to', 'the', 'left', 'along', 'Abbey', 'street', '.']    1065.3390078952955
+['How', 'had', 'he', 'attempted', 'to', 'remedy', 'this', 'state', 'of', 'comparative', 'ignorance', '?']    1041.0479853630707
+['There', 'ensued', 'a', 'somewhat', 'lengthy', 'pause', '.']    1135.9260983841089
+['He', 'kicked', 'open', 'the', 'crazy', 'door', 'of', 'the', 'jakes', '.']    109.95614278554375
+['An', 'ancient', 'haggadah', 'book', 'in', 'which', 'a', 'pair', 'of', 'hornrimmed', 'convex', 'spectacles', 'inserted', 'marked', 'the', 'passage', 'of', 'thanksgiving', 'in', 'the', 'ritual', 'prayers', 'for', 'Pessach', 'Passover', ':', 'a', 'photocard', 'of', 'the', 'Queen', 's', 'Hotel', ',', 'Ennis', ',', 'proprietor', ',', 'Rudolph', 'Bloom', ':', 'an', 'envelope', 'addressed', ':', '_To', 'My', 'Dear', 'Son', 'Leopold_', '.']    1642.4771614442218
+['Virtuous', ':', 'but', 'occasionally', 'they', 'were', 'also', 'badtempered', '.']    198.34162317461826
+['Have', 'rows', 'all', 'the', 'same', '.']    280.86658351591643
+['Sing', 'out', '!']    98.26907031600221
+['Ireland', 'sober', 'is', 'Ireland', 'free', '.']    895.8959904301311
+['Father', ',', 'Son', 'and', 'Holy', 'Ghost', 'and', 'Jakes', 'M', 'Carthy', '.']    120.43518633470156
+['Hangmen', 's', 'letters', '.']    350.86415240837715
+['The', 'presence', 'of', 'guttural', 'sounds', ',', 'diacritic', 'aspirations', ',', 'epenthetic', 'and', 'servile', 'letters', 'in', 'both', 'languages', ':', 'their', 'antiquity', ',', 'both', 'having', 'been', 'taught', 'on', 'the', 'plain', 'of', 'Shinar', '<NUMBER>', 'years', 'after', 'the', 'deluge', 'in', 'the', 'seminary', 'instituted', 'by', 'Fenius', 'Farsaigh', ',', 'descendant', 'of', 'Noah', ',', 'progenitor', 'of', 'Israel', ',', 'and', 'ascendant', 'of', 'Heber', 'and', 'Heremon', ',', 'progenitors', 'of', 'Ireland', ':', 'their', 'archaeological', ',', 'genealogical', ',', 'hagiographical', ',', 'exegetical', ',', 'homiletic', ',', 'toponomastic', ',', 'historical', 'and', 'religious', 'literatures', 'comprising', 'the', 'works', 'of', 'rabbis', 'and', 'culdees', ',', 'Torah', ',', 'Talmud', 'Mischna', 'and', 'Ghemara', ',', 'Massor', ',', 'Pentateuch', ',', 'Book', 'of', 'the', 'Dun', 'Cow', ',', 'Book', 'of', 'Ballymote', ',', 'Garland', 'of', 'Howth', ',', 'Book', 'of', 'Kells', ':', 'their', 'dispersal', ',', 'persecution', ',', 'survival', 'and', 'revival', ':', 'the', 'isolation', 'of', 'their', 'synagogical', 'and', 'ecclesiastical', 'rites', 'in', 'ghetto', 'S', '.']    28.13684267870688
+['Parallax', 'stalks', 'behind', 'and', 'goads', 'them', ',', 'the', 'lancinating', 'lightnings', 'of', 'whose', 'brow', 'are', 'scorpions', '.']    1690.9782897396376
+['We', 'had', 'a', 'midnight', 'lunch', 'too', 'after', 'all', 'the', 'jollification', 'and', 'when', 'we', 'sallied', 'forth', 'it', 'was', 'blue', 'o', 'clock', 'the', 'morning', 'after', 'the', 'night', 'before', '.']    244.65056247841156
+['repetition', '.']    20.783012474794592
+['Glad', 'to', 'see', 'us', 'go', 'we', 'give', 'them', 'such', 'trouble', 'coming', '.']    483.17984997053856
+['Ineffable', ',', 'in', 'heaven', 'hight', ':', 'K', '.']    313.68088804977623
+['He', 'died', 'on', 'Monday', ',', 'poor', 'fellow_', '.']    11.51553722309283
+['He', 'took', 'the', 'coverless', 'book', 'from', 'her', 'hand', '.']    115.35064982441374
+['Quite', 'a', 'boy', '.']    120.58887424130893
+['A', 'tide', 'westering', ',', 'moondrawn', ',', 'in', 'her', 'wake', '.']    1017.1673659649695
+['The', 'cat', 'mewed', 'to', 'him', '.']    200.25959292184095
+['No', 'nursery', 'work', 'for', 'her', ',', 'thanks', '.']    113.17564142711541
+['Cavaliers', 'behind', 'them', 'arch', 'and', 'suspend', 'their', 'arms', ',', 'with', 'hands', 'descending', 'to', ',', 'touching', ',', 'rising', 'from', 'their', 'shoulders', '.']    92.98059156646823
+['I', 'dare', 'him', ',', 'says', 'he', ',', 'and', 'I', 'doubledare', 'him', '.']    308.5638749309579
+['Gordon', 'Bennett', '.']    739.466856153377
+['What', 'reason', 'did', 'Stephen', 'give', 'for', 'declining', 'Bloom', 's', 'offer', '?']    292.84793783386084
+['Dignam', 'of', 'Menton', 's', 'office', 'that', 'was', ',', 'Martin', 'Cunningham', 'said', '.']    292.34411535439017
+['BELLO', ':', '_', 'Sarcastically', '.']    91.92674835451277
+['The', 'honourable', 'Mrs', 'and', 'Brutus', 'is', 'an', 'honourable', 'man', '.']    155.91544546078595
+['A', 'pishogue', ',', 'if', 'you', 'know', 'what', 'that', 'is', '.']    357.6170858065022
+['Mervyn', 'Browne', '.']    113.2835365560183
+['I', 'am', 'the', 'Virag', 'who', 'disclosed', 'the', 'Sex', 'Secrets', 'of', 'Monks', 'and', 'Maidens', '.']    4063.54315538256
+['Bloom', 'stays', 'with', 'nurse', 'a', 'thought', 'to', 'send', 'a', 'kind', 'word', 'to', 'happy', 'mother', 'and', 'nurseling', 'up', 'there', '.']    931.1323408603871
+['Do', 'you', 'see', 'the', 'tide', 'flowing', 'quickly', 'in', 'on', 'all', 'sides', ',', 'sheeting', 'the', 'lows', 'of', 'sand', 'quickly', ',', 'shellcocoacoloured', '?']    560.3300379178253
+['sunnywinking', 'leaves', ':', 'and', 'towards', 'him', 'came', 'the', 'wife', 'of', 'Mr', 'David', 'Sheehy', 'M', '.']    509.84729596163095
+['He', 'takes', 'great', 'pride', ',', 'quite', 'legitimate', ',', 'out', 'of', 'you', '.']    1404.8633264547614
+['Doing', 'his', 'level', 'best', 'to', 'say', 'it', '.']    1410.3012683918312
+['She', 's', 'passing', 'now', '.']    154.0450550042594
+['Want', 'to', 'be', 'careful', '.']    32.49808821976914
+['And', 'they', 'rose', 'in', 'their', 'seats', ',', 'those', 'twelve', 'of', 'Iar', ',', 'and', 'they', 'swore', 'by', 'the', 'name', 'of', 'Him', 'Who', 'is', 'from', 'everlasting', 'that', 'they', 'would', 'do', 'His', 'rightwiseness', '.']    276.69976489171006
+['Eunuch', '.']    20.783012474794592
+['The', 'carriage', 'swerved', 'from', 'the', 'tramtrack', 'to', 'the', 'smoother', 'road', 'past', 'Watery', 'lane', '.']    652.2904696923362
+['The', 'rum', 'tum', 'tum', '.']    45.75892996836403
+['O', ',', 'the', 'big', 'doggybowwowsywowsy', '!']    182.5006289309541
+['He', 'went', 'in', '.']    38.96706146076471
+['Cold', 'joints', 'galore', 'and', 'mince', 'pies', '.']    1615.0648709378074
+['No', 'admittance', 'except', 'on', 'business', '.']    618.5737857093018
+['What', 'you', 'eat', 'and', 'drink', 'gives', 'that', '.']    402.4009306364549
+['O', 'Rourke', ',', 'prince', 'of', 'Breffni', '.']    511.4998574419439
+['He', 'had', 'spoken', 'himself', 'into', 'boldness', '.']    162.22551291400498
+['She', 'has', 'a', 'fine', 'pair', ',', 'God', 'bless', 'her', '.']    43.78190968450352
+['the', 'awful', 'rebel', '.']    18.888675019107932
+['Having', 'delivered', 'himself', 'of', 'this', 'rebuke', 'he', 'saluted', 'those', 'present', 'on', 'the', 'by', 'and', 'repaired', 'to', 'the', 'door', '.']    783.6572863477293
+['gentleman', 'is', 'in', 'trouble', 'that', 'way', '.']    111.33592286970013
+['Back', 'of', 'everything', 'magnetism', '.']    102.98832597479864
+['O', ',', 'ever', 'so', 'gently', ',', 'pet', '.']    82.61995074131133
+['On', 'land', ',', 'meridional', ',', 'a', 'bispherical', 'moon', ',', 'revealed', 'in', 'imperfect', 'varying', 'phases', 'of', 'lunation', 'through', 'the', 'posterior', 'interstice', 'of', 'the', 'imperfectly', 'occluded', 'skirt', 'of', 'a', 'carnose', 'negligent', 'perambulating', 'female', ',', 'a', 'pillar', 'of', 'the', 'cloud', 'by', 'day', '.']    1970.229259935691
+['No', 'one', 'is', 'anything', '.']    33.02910292421393
+['Amen', '.']    70.70418735744552
+['one', 'the', 'field', '.']    25.865216871918395
+['school', 'at', 'Dalkey', 'for', 'a', 'gentleman', 'usher', '.']    313.6198260508489
+['PADDY', 'DIGNAM', ':', 'Pray', 'for', 'the', 'repose', 'of', 'his', 'soul', '.']    1823.28877704842
+['Hiesos', 'Kristos', ',', 'magician', 'of', 'the', 'beautiful', ',', 'the', 'Logos', 'who', 'suffers', 'in', 'us', 'at', 'every', 'moment', '.']    532.1732493596353
+['Ravished', 'over', 'her', 'I', 'lay', ',', 'full', 'lips', 'full', 'open', ',', 'kissed', 'her', 'mouth', '.']    47.89872086493716
+['Whispering', 'gallery', 'walls', 'have', 'ears', '.']    1055.2103324592638
+['You', 'have', 'two', 'copies', 'there', '.']    355.4868759706489
+['A', 'catalectic', 'tetrameter', 'of', 'iambs', 'marching', '.']    964.8963143545552
+['Muskrat', '.']    20.783012474794592
+['A', 'pure', 'misunderstanding', '.']    70.38697676105565
+['Forget', '.']    11.558321623806648
+['Don', 't', '!']    107.13647339735364
+['Wallace', 'Bros', ':', 'the', 'bottleworks', ':', 'Dodder', 'bridge', '.']    1608.9209394305312
+['The', 'other', 'gets', 'rather', 'tiresome', ',', 'never', 'withering', '.']    550.3988386837401
+['That', '_Kilkenny', 'People_', 'in', 'the', 'national', 'library', 'now', 'I', 'must', '.']    178.96035895341586
+['He', 's', 'gone', 'to', 'Gill', 's', 'to', 'buy', 'Hyde', 's', '_Lovesongs', 'of', 'Connacht_', '.']    1401.8517658823716
+['What', '?']    17.606517906706156
+['my', 'way', '.']    32.689398094163245
+['Half', 'the', 'town', 'was', 'there', '.']    157.83838678391996
+['Not', 'verbally', '.']    33.363201584824346
